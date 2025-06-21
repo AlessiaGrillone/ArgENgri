@@ -1,0 +1,330 @@
+{
+   "indexTitle": "Aristotelis Ethicae ad Nicomachum filium Liber IV, in latinum a Ioanne Argyropoulos conversum.",
+   "webSite": "",
+   "logoUrl": "",
+   
+   "dataUrl": "data/text/ENGA.xml",
+   "sourcesUrl": "",
+   "analoguesUrl": "",
+   "sourcesTextsUrl": "",
+   "singleImagesUrl": "",
+   "enableXMLdownload": true,
+
+   "visCollTextUrl": "",
+   "visCollStyleUrl": "",
+   "visCollSvg": "",
+   "visCollImageList": "",
+   "visCollDataModel": "",
+
+   "defaultViewMode": "readingTxt",
+   "availableViewModes": [
+      {
+         "label": "READING_TEXT",
+         "icon": "reading-txt",
+         "viewMode": "readingTxt",
+         "visible": true
+      },
+      {
+         "label": "MULTIPLE_RECENSIONS",
+         "icon": "mode-versions",
+         "viewMode": "versions",
+         "visible": false
+      },
+      {
+         "label": "IMAGE_TEXT",
+         "icon": "mode-imgTxt",
+         "viewMode": "imgTxt",
+         "visible": false
+      },
+      {
+         "label": "TEXT_TEXT",
+         "icon": "mode-txtTxt",
+         "viewMode": "txtTxt",
+         "visible": false
+      },
+      {
+         "label": "COLLATION",
+         "icon": "mode-collation",
+         "viewMode": "collation",
+         "visible": true
+      },
+      {
+         "label": "SOURCE_TEXT",
+         "icon": "mode-srcTxt",
+         "viewMode": "srcTxt",
+         "visible": true
+      },
+      {
+         "label"    : "3DHOP",
+         "icon"     : "mode-tdhop",
+         "viewMode" : "tdhop",
+         "visible"  : false
+     }     
+   ],
+
+   "defaultEdition": "critical",
+   "showEditionLevelSelector": true,
+   "availableEditionLevel": [
+      {
+         "value": "critical",
+         "label": "Edizione critica",
+         "title": "Critical edition",
+         "visible": true
+      },
+      {
+         "value": "diplomatic",
+         "label": "Diplomatic",
+         "title": "Diplomatic edition",
+         "visible": false
+      },
+      {
+         "value": "interpretative",
+         "label": "Interpretative",
+         "title": "Interpretative edition",
+         "visible": false
+      }
+   ],
+
+   "showDocumentSelector": false,
+   "enableNavBar": false,
+   "initNavBarOpened": false,
+   "thumbnailsButton": false,
+   "viscollButton": false,
+
+   "toolPinAppEntries": true,
+   "toolImageTextLinking": true,
+
+   "namedEntitiesSelector": false,
+   "namedEntitiesToHandle": [
+      {
+         "tagName": "persName",
+         "label": "Persons",
+         "available": true
+      },
+      {
+         "tagName": "placeName",
+         "label": "Places",
+         "available": true
+      },
+      {
+         "tagName": "orgName",
+         "label": "Organizations",
+         "available": true
+      }
+   ],
+   "otherEntitiesToHandle": [
+      {
+         "tagName": "rolename",
+         "label": "Role Name",
+         "available": false,
+         "color": "#cfc"
+      },
+      {
+         "tagName": "measure",
+         "label": "Measure",
+         "available": false,
+         "color": "#ffecb3"
+      }
+   ],
+
+   "preferredWitness": "",
+   "skipWitnesses": "",
+   "maxWitsLoadTogether": 35,
+
+   "witnessesGroups": [
+         {
+            "groupName": "φ",
+            "witnesses": [
+                "V",
+                "D",
+                "E"
+            ]
+        },
+        {
+            "groupName": "O",
+            "witnesses": [
+                "C",
+                "Ric15",
+                "Ric16"          
+            ]
+        },
+        
+            {
+            "groupName": "A",
+            "witnesses": [
+                "Ch1",
+                "Ch2",
+                "Ott",
+                "Urb1",
+                "Urb2",
+                "Vat",
+                "Faes",
+                "Plut1",
+                "Plut3",
+                "Plut84",
+                "Plut89",
+                "Ric23",
+                "Holk",
+                "Mon",
+                "Ox2",
+                "Par1",
+                "Par2",
+                "Vall",
+                "Vrat"
+            ]
+        },
+        {
+            "groupName": "π",
+            "witnesses": [
+                "S",        
+                "Ox1"          
+            ]
+        },
+        {
+            "groupName": "ς",
+            "witnesses": [
+                "f",
+                "t",
+                "m",
+                "p",
+                "g"
+            ]
+        },
+        {
+            "groupName": "ρ",
+            "witnesses": [
+                "Amstel",
+                "r",
+                "v"
+            ]
+        }
+        
+         
+   ],
+
+   "showInlineCriticalApparatus": false,
+   "showInlineSources": false,
+   "showInlineAnalogues": false,
+   "showReadingExponent": true,
+
+   "toolHeatMap": true,
+
+   "versions": [
+      
+   ],
+
+   "listDef": "<listWit>, <listChange>",
+   "versionDef": "<witness>, <change>",
+   "fragmentMilestone": "<witStart>, <witEnd>",
+   "lacunaMilestone": "<lacunaStart>, <lacunaEnd>",
+   "notSignificantVariant": "<orig>, <sic>, [type=orthographic]",
+   "quoteDef": "<quote>",
+   "analogueDef": "<ref[type=parallel]>",
+ 
+   "possibleLemmaFilters": "type",
+   "possibleVariantFilters": "type", 
+
+   "variantColorLight": "",
+   "variantColorDark": "",
+   "heatmapColor": "",
+   "variantColors": {
+      "type": {
+         "draft": "rgb(108, 145, 207)",
+         "var_auct": "rgb(91, 204, 203)",
+         "unique": "rgb(248, 253, 136)",
+         "corr": "rgb(255, 117, 118)",
+         "orthographic": "rgb(229, 103, 175)",
+         "polygenetic": "rgb(171, 104, 206)",
+         "repetition": "rgb(132, 113, 209)",
+         "transposition": "rgb(255, 192, 126)",
+         "other": "rgb(100, 230, 121)"
+      }
+      
+    },
+
+   "defaultBibliographicStyle": "Chicago",
+   "allowedBibliographicStyles": {
+      "Chicago": {
+         "label": "Chicago",
+         "enabled": true
+      },
+      "APA": {
+         "label": "APA",
+         "enabled": true
+      },
+      "MLA": {
+         "label": "MLA",
+         "enabled": true
+      }
+   },
+
+   "virtualKeyboardKeys": [],
+
+   "imageViewerOptions": {
+      "prefixUrl": "images/osd-images/",
+      "showRotationControl": true,
+      "showNavigator": true,
+      "visibilityRatio": 1,
+      "defaultZoomLevel": 0.7,
+      "panHorizontal": true,
+      "constrainDuringPan": true,
+      "minZoomLevel": 0.7,
+      "maxZoomLevel": 3.0,
+      "wrapVertical": false
+   },
+   "imageNormalizationCoefficient": 2400,
+
+   "languages": [
+      "en",
+      "it"
+   ],
+
+   "showObjectSelector": false,
+
+   "tdhopViewerOptions": {
+
+      "toolHome": false,
+      "toolZoomin": false,
+      "toolZoomout": false,
+      "toolLighting": false,
+      "toolLightControl": false,
+      "toolMeasure": false,
+      "toolPickPoint": false,
+      "toolPlaneSections": false,
+      "toolSolidColor": false,
+      "toolCamera": false,
+      "toolHotspot": false,
+      "toolFullScreen": false,
+      "toolSwitchModel": false,
+      "toolArrows": false,
+      "toolLightController": false,
+
+      "Model_1": {
+         "name": "",
+         "path": "data/models/multires/",
+         "mesh": ""
+      },
+
+      "Model_2": {
+         "name": "",
+         "path": "data/models/singleres/",
+         "mesh": ""
+      },
+
+      "Hotspots": {
+         "type": "",
+         "path": "data/models/singleres/",
+         "model": "",
+         "hotspotsdata": [
+            {
+               "name": "",
+               "type": "",
+               "position": [],
+               "radius": "",
+               "view": []
+            }
+         ],
+         "nextID": ""
+      }
+   }
+}
