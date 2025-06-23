@@ -6,7 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Aristotelis Ethicae ad Nicomachum filium Liber IV, in latinum a Ioanne Argyropoulos conversum</title>
+            <title>Aristotelis Ethicae ad Nicomachum filium Liber IV, in latinum a Ioanne
+               Argyropoulos conversum</title>
             <respStmt xml:id="AG">
                <resp>Edizione digitale a cura di</resp>
                <name>Alessia Grillone</name>
@@ -25,7 +26,7 @@
             <publisher>Università degli Studi di Torino - Dipartimento di Studi Umanistici, Centro
                DISH</publisher>
          </publicationStmt>
-                  <sourceDesc>
+         <sourceDesc>
             <listWit>
                <listWit xml:id="φ_wits" ana="#φ">
                   <head>Witnesses of version φ</head>
@@ -787,7 +788,8 @@
                xml:lang="lat" rend="italic">infra</foreign> la <foreign xml:lang="lat" rend="italic"
                ana="#legenda">legenda</foreign> dei valori), e <hi rend="italic">@ana</hi>, ad
             indicare la redazione che trasmette una certa lezione.</p>
-         <p>La "Vista a collazione" (l'icona si trova in alto a destra) consente di confrontare il testo édito con quello delle altre redazioni.</p>
+         <p>La "Vista a collazione" (l'icona si trova in alto a destra) consente di confrontare il
+            testo édito con quello delle altre redazioni.</p>
          <p>
             <list>
                <head>Elenco dei principali valori associati all'attributo <hi rend="italic"
@@ -805,18 +807,19 @@
                   testimoni.</item>
             </list></p>
          <p>
-         <list>
-            <head>Denominazione delle redazioni nella "Vista a collazione"</head>
-            <item>Version A: redazione φ</item>
-            <item>Version B: redazione O</item>
-            <item>Version C: redazione A</item>
-            <item>Version D: redazione π</item>
-            <item>Version E: redazione ς</item>
-            <item> Version F: redazione ρ</item>
-         </list></p>
+            <list>
+               <head>Denominazione delle redazioni nella "Vista a collazione"</head>
+               <item>Version A: redazione φ</item>
+               <item>Version B: redazione O</item>
+               <item>Version C: redazione A</item>
+               <item>Version D: redazione π</item>
+               <item>Version E: redazione ς</item>
+               <item> Version F: redazione ρ</item>
+            </list></p>
       </encodingDesc>
    </teiHeader>
-   <text n="Aristotelis Ethicae ad Nicomachum filium Liber IV, in latinum a Ioanne Argyropoulos conversum">
+   <text
+      n="Aristotelis Ethicae ad Nicomachum filium Liber IV, in latinum a Ioanne Argyropoulos conversum">
       <front resp="#AG">
          <titlePage>
             <titlePart>Introduzione</titlePart>
@@ -1335,20 +1338,19 @@
                ana="#φ_wits">φ</hi>; su tale esemplare sembra che sia intervenuto Marsi (<hi
                rend="bold" ana="#ρ_wits">ρ</hi>), apportando le proprie modifiche, per un totale di
             48 varianti, cui si sommano le 50 trasformazioni concernenti <foreign xml:lang="lat"
-               rend="italic">loci</foreign> lasciati invariati da Argiropulo. Dal punto
-            di vista qualitativo queste modifiche mostrano di seguire strategie di revisione
-            differenti rispetto a quelle consuete del Bizantino, caratterizzate da una maggiore
-            attenzione per il latino<note resp="#AG">Questo aspetto si concretizza in una serie di
-               interventi volti alla semplificazione del dettato senza badare alla costruzione e
-               allo stile del greco (si veda ad esempio la soppressione sistematica delle
-               espressioni con videor e infinito) e si accentua la tendenza classicheggiante (cf.
-               e.g. "accipio" prende il posto di "accepto" [1124a, l. 9;1126b, l. 18] e "pacto" è
-               sostituito più volte con "modo" [1122b, l. 8; 1123a, l. 30; 1124b, l. 11]),
-               compromettendo in alcuni casi la fedeltà della traduzione nei confronti
-               dell’originale (cf. e.g. 1128b, l. 25 e l. 33, la sostituzione di "verecundor" con
-               "erubesco", non tiene conto della distinzione lessicale tra ἐρυθραίνω e αἰσχύνω
-               presente nell’originale e mantenuta da Argiropulo che, di conseguenza, traduce sempre
-               αἰσχύνω con "verecundor").</note>.</p>
+               rend="italic">loci</foreign> lasciati invariati da Argiropulo. Dal punto di vista
+            qualitativo queste modifiche mostrano di seguire strategie di revisione differenti
+            rispetto a quelle consuete del Bizantino, caratterizzate da una maggiore attenzione per
+            il latino<note resp="#AG">Questo aspetto si concretizza in una serie di interventi volti
+               alla semplificazione del dettato senza badare alla costruzione e allo stile del greco
+               (si veda ad esempio la soppressione sistematica delle espressioni con videor e
+               infinito) e si accentua la tendenza classicheggiante (cf. e.g. "accipio" prende il
+               posto di "accepto" [1124a, l. 9;1126b, l. 18] e "pacto" è sostituito più volte con
+               "modo" [1122b, l. 8; 1123a, l. 30; 1124b, l. 11]), compromettendo in alcuni casi la
+               fedeltà della traduzione nei confronti dell’originale (cf. e.g. 1128b, l. 25 e l. 33,
+               la sostituzione di "verecundor" con "erubesco", non tiene conto della distinzione
+               lessicale tra ἐρυθραίνω e αἰσχύνω presente nell’originale e mantenuta da Argiropulo
+               che, di conseguenza, traduce sempre αἰσχύνω con "verecundor").</note>.</p>
          <p>Per contro, Argiropulo segue delle direttrici correttorie, costanti lungo tutto l’arco
             di elaborazione della traduzione, le quali tengono conto delle esigenze del testo di
             arrivo e soprattutto di quello di partenza: oltre alle correzioni vere e proprie, mirate
@@ -1782,10 +1784,12 @@
             </list></p>
          <p> L’altro attributo da me associato alle singole entrate di apparato è <hi rend="italic"
                >@ana</hi> (<foreign xml:lang="eng" rend="italic">analysis</foreign>), il quale
-            indica la redazione che trasmette una certa lezione. In tal modo intendo facilitare la
-            lettura di un apparato di necessità molto ricco e consentire la possibilità di
-            selezionare le informazioni da visualizzare utilizzando i filtri per tipologie di
-            varianti.</p>
+            indica la redazione che trasmette una certa lezione<note resp="#AG">Per le entrate di
+               apparato, lemma, ho generalmente indicato solo la redazione tramite @ana e non i
+               singoli testimoni; l'apparato è, dunque, negativo</note>. In tal modo intendo
+            facilitare la lettura di un apparato di necessità molto ricco e consentire la
+            possibilità di selezionare le informazioni da visualizzare utilizzando i filtri per
+            tipologie di varianti.</p>
          <p>Sulla base degli attributi <hi rend="italic">@type</hi> e <hi rend="italic">@ana</hi> ho
             disposto anche le varianti all’interno delle <hi rend="italic">app</hi>: ho scelto di
             registrare per prime le varianti d’autore (<hi rend="italic">draft</hi> e <hi
@@ -1832,7 +1836,7 @@
                   <lem ana="#O #A #π #ς #φ #ρ">liberalitate</lem>
                   <rdg ana="#A" type="unique" wit="#Holk">liberatione</rdg>
                </app> dicamus. <app>
-                  <lem ana="φ">Videtur itaque probitas haec</lem>
+                  <lem ana="#φ">Videtur itaque probitas haec</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >haec itaque virtus</rdg>
@@ -1861,7 +1865,7 @@
                   <rdg ana="#A" type="unique" wit="#Plut3">ipse vir</rdg>
                </app> temperans nec <app>
                   <lem ana="#A #π #ς #φ #ρ">etiam in iudiciis</lem>
-                  <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16" cert="unknown">in iudiciis
+                  <rdg ana="#O" type="draft" cert="unknown" wit="#C #Ric15 #Ric16">in iudiciis
                      etiam</rdg>
                </app>, sed in dandis capiendisve, et <app>
                   <lem ana="#φ">potius</lem>
@@ -2147,8 +2151,9 @@
                      >ad earum magis videtur pertinere possessionem</rdg>
                   <rdg ana="#O" type="unique" wit="#Ric16">ad earum videtur magis pertinere
                      possessionem</rdg>
-                  <rdg ana="#A" type="unique" wit="#Vall"><lacunaEnd wit="#Vall"/></rdg>
-                  <rdg ana="#A" type="unique" wit="#Vall">pertinere possessionem</rdg>
+                  <rdg ana="#A" type="unique" wit="#Vall"><lacunaEnd wit="#Vall"/> pertinere
+                     possessionem</rdg>
+                  <!--    <rdg ana="#A" type="unique" wit="#Vall">pertinere possessionem</rdg> -->
                </app> . Quocirca <app>
                   <lem ana="#O #A #π #ς #φ #ρ">viri</lem>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">et viri</rdg>
@@ -2217,7 +2222,7 @@
                   <rdg ana="#A" type="unique" wit="#Vrat">aut ei debetur</rdg>
                </app> qui dat, non <app>
                   <lem ana="#π #ς #φ #ρ">eum</lem>
-                  <rdg ana="#A #O" type="draft"
+                  <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >ei</rdg>
                </app> qui <app>
@@ -2321,7 +2326,7 @@
                </app> dolore. Id enim quod per virtutem efficitur <app>
                   <lem ana="#A #π #ς #φ #ρ">afficit voluptate</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">iucundum est</rdg>
-                  <rdg ana="#ρ" type="unique" wit="v">efficit voluptate</rdg>
+                  <rdg ana="#ρ" type="unique" wit="#v">efficit voluptate</rdg>
                </app> aut <app>
                   <lem ana="#A #π #ς #φ #ρ">fit cum indolentia</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">est sine molestia</rdg>
@@ -2364,7 +2369,7 @@
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">dando dolet</lem>
-                  <rdg ana="#A" type="adiaphora" wit="#Plut3 #Mon">dolet dando</rdg>
+                  <rdg ana="#A" type="joining" wit="#Plut3 #Mon">dolet dando</rdg>
                   <rdg ana="#A" type="unique" cause="om" wit="#Faes"/>
                </app>; <app>
                   <lem ana="#O #A #π #ς #φ #ρ">honestis</lem>
@@ -2742,7 +2747,7 @@
                   <lem ana="#A #π #ς #φ #ρ">pro facultatibus erogat</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">ut patrimonium fert iuxtaque
                      facultates erogat</rdg>
-                  <rdg ana="#A" type="polygenetic" wit="#Plut3 #Mon">erogat</rdg>
+                  <rdg ana="#A" type="joining" wit="#Plut3 #Mon">erogat</rdg>
                </app> et in quibus oportet. Qui vero <app>
                   <lem ana="#π #ς #φ #ρ">exsuperat</lem>
                   <rdg ana="#O #A" type="draft"
@@ -2763,7 +2768,7 @@
                   <rdg ana="#A" type="unique" wit="#Par2">non constituimus prodigos appellare</rdg>
                </app>: non enim <app>
                   <lem ana="#O #A #π #ς #φ #ρ">facile videtur esse</lem>
-                  <rdg ana="#A" type="polygenetic" wit="#Plut3 #Mon">facile videtur</rdg>
+                  <rdg ana="#A" type="joining" wit="#Plut3 #Mon">facile videtur</rdg>
                </app> dando <app>
                   <lem ana="#O #A #π #ς #φ #ρ">ac</lem>
                   <rdg ana="#A" type="joining" wit="#Urb1 #Ric23">et</rdg>
@@ -3077,7 +3082,7 @@
                      >ponimus actu</rdg>
                   <rdg ana="#A" type="unique" wit="#Ch2">ponimus actum</rdg>
                </app>. <app>
-                  <lem ana="φ">Prodigatio</lem>
+                  <lem ana="#φ">Prodigatio</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      >prodigalitas</rdg>
@@ -3218,7 +3223,7 @@
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">assuescat vel alio modo
                      mutetur</rdg>
                   <rdg ana="#A #π" type="draft"
-                     wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall S Ox1"
+                     wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #S #Ox1"
                      >assuescet vel aliquo alio modo mutabitur</rdg>
                   <rdg ana="#ς #ρ" type="draft" wit="#f #t #m #p #g #Amstel #r #v">assuecat vel
                      aliquo alio modo mutetur</rdg>
@@ -3408,7 +3413,7 @@
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">et undique</lem>
                   <rdg ana="#O" type="unique" wit="#Ric16">et unde</rdg>
-                  <rdg ana="#A" type="polygenetic" wit="#Plut3 #Mon">undique</rdg>
+                  <rdg ana="#A" type="joining" wit="#Plut3 #Mon">undique</rdg>
                   <rdg ana="#A" type="unique" wit="#Ox2" cause="om"/>
                </app> capiunt. <app>
                   <lem ana="#φ">Dare enim</lem>
@@ -3429,7 +3434,7 @@
                </app> aut unde <app>
                   <lem ana="#ς #φ #ρ">nullum est apud ipsos discrimen</lem>
                   <rdg ana="#O #A" type="draft"
-                     wit="C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par2 #Vall #Vrat"
+                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par2 #Vall #Vrat"
                      >nullum est prorsus apud eos discrimen</rdg>
                   <rdg ana="#π" type="draft" wit="#S #Ox1">nihil ipsis refert</rdg>
                   <rdg ana="#A" type="unique" wit="#Mon">nullum prorsus apud eos discrimen</rdg>
@@ -3457,9 +3462,9 @@
                   <rdg ana="#A" type="unique" wit="#Par2">liberalis</rdg>
                </app>: non <app>
                   <lem ana="#φ">sunt enim</lem>
-                  <rdg ana="#O #A #π #ς #ρ" type="draft"
+                  <rdg ana="#O #A #π #ς #ρ" type="draft" cert="unknown"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
-                     cert="unknown">enim sunt</rdg>
+                     >enim sunt</rdg>
                </app>
                <app>
                   <lem ana="#π #ς #φ #ρ">honestae</lem>
@@ -3674,7 +3679,7 @@
                   <rdg ana="#ς" type="joining" wit="#m #p">quidem</rdg>
                </app> in dando deficiunt.</p>
             <p><app>
-                  <lem ana="φ">Et enim qui</lem>
+                  <lem ana="#φ">Et enim qui</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      >qui namque</rdg>
@@ -3733,7 +3738,7 @@
                   <rdg ana="#A" type="var_auct" wit="#Vall">horum de numero</rdg>
                </app> est <app>
                   <lem ana="#O #A #π #ς #φ #ρ">et</lem>
-                  <rdg ana="#A" type="polygenetic" cause="om" wit="#Plut3 #Mon"/>
+                  <rdg ana="#A" type="joining" cause="om" wit="#Plut3 #Mon"/>
                </app>
                <app>
                   <lem ana="#π #ς #φ #ρ">ipse <seg source="#Ves1357 #Char">cumini sector</seg>
@@ -3820,7 +3825,7 @@
                   <rdg ana="#ς" type="joining" wit="#t #m #p #g">et quidvis</rdg>
                </app> capientes, <app>
                   <lem ana="#O #π #ς #φ #ρ">quales</lem>
-                  <rdg ana="#A" type="draft"
+                  <rdg ana="#A" type="draft" cert="low"
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                   />
                </app> sunt <app>
@@ -3834,7 +3839,7 @@
                      Ric15</foreign></note>
                </app> qui operationes illiberales exercent, <app>
                   <lem ana="#O #π #ς #φ #ρ">ut</lem>
-                  <rdg ana="#A" type="draft"
+                  <rdg ana="#A" type="joining"
                      wit="#Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >et</rdg>
                   <rdg ana="#A" type="unique" cause="om" wit="#Ch1"/>
@@ -4092,7 +4097,7 @@
                      >triremis praefectum</rdg>
                   <rdg ana="#A" type="unique" wit="#Ch2">triremis perfectum</rdg>
                </app> et spectaculorum <app>
-                  <lem ana="#π #ς #φ #ρ">praefectum</lem>
+                  <lem ana="#ς #φ #ρ">praefectum</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >principem</rdg>
@@ -4104,7 +4109,7 @@
                </app> igitur <app>
                   <lem ana="#π #ς #φ #ρ">est et ad ipsum</lem>
                   <rdg ana="#O #A" type="draft"
-                     wit="#C #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par1 #Par2 #Vall #Vrat #S"
+                     wit="#C #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >et ad eum ipsum est qui sumptus facit</rdg>
                   <rdg ana="#O" type="joining" wit="#Ric15 #Ric16">et ad eum ipsum est qui sumptum
                      facit</rdg>
@@ -4210,7 +4215,7 @@
                </app> et <app>
                   <lem ana="#φ">quotquot</lem>
                   <rdg ana="#O #A" type="draft"
-                     wit="C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
+                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >quaecumque</rdg>
                   <rdg ana="#π #ς #ρ" type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      >quot</rdg>
@@ -4361,7 +4366,7 @@
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >quocirca</rdg>
                </app> sumptu quidem opus, opere vero dignus sit, <app>
-                  <lem ana="φ">aut</lem>
+                  <lem ana="#φ">aut</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #Amstel #r #v"
                      >vel</rdg>
@@ -4708,8 +4713,8 @@
                      >universis</rdg>
                </app> - <app>
                   <lem ana="#O #A #φ">uti</lem>
-                  <rdg ana="#π #ς #ρ" type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v"
-                     cert="unknown">ut</rdg>
+                  <rdg ana="#π #ς #ρ" type="draft" cert="unknown"
+                     wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v">ut</rdg>
                </app> diximus<note xml:id="n5" place="above" resp="#AG">Cf. Arist. EN IV, 1122a, ll.
                   26-27.</note> ̶ et ad <app>
                   <lem ana="#φ">agentem ipsum</lem>
@@ -4752,7 +4757,7 @@
                </app> esse oportet et non solum opus, verum <app>
                   <lem ana="#π #ς #φ #ρ">et</lem>
                   <rdg ana="#O #A" type="draft"
-                     wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
+                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >etiam</rdg>
                </app> ipsum <app>
                   <lem ana="#O #A #π #ς #φ #ρ">facientem decere</lem>
@@ -4864,15 +4869,15 @@
                   <lem ana="#π #ς #φ #ρ">ipsos</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"/>
-                  <rdg ana="φ" type="unique" wit="#E">ipsis</rdg>
+                  <rdg ana="#φ" type="unique" wit="#E">ipsis</rdg>
                </app> aut per <app>
-                  <lem ana="φ">maiores suos</lem>
+                  <lem ana="#φ">maiores suos</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >suos maiores</rdg>
                   <rdg ana="#π #ς #φ #ρ" type="draft">maiores</rdg>
                </app> aut per <app>
-                  <lem ana="φ">eos</lem>
+                  <lem ana="#φ">eos</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >eos factae</rdg>
@@ -4886,12 +4891,12 @@
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">qui ad hos ipsos</rdg>
                </app>
                <app>
-                  <lem ana="φ">sese</lem>
+                  <lem ana="#φ">sese</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16"/>
                   <rdg ana="#A #π #ς #ρ" type="draft"
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      cert="unknown">se</rdg>
-                  <rdg ana="φ" type="unique" wit="#D">sse</rdg>
+                  <rdg ana="#φ" type="unique" wit="#D">sse</rdg>
                </app>
                <app>
                   <lem ana="#A #π #ς #φ #ρ">referunt</lem>
@@ -4908,7 +4913,7 @@
                      >praeclaros</rdg>
                   <rdg ana="#A" type="polygenetic" wit="#Ott #Holk">praeclaris</rdg>
                </app> et quotquot <app>
-                  <lem ana="φ">conditiones subeunt tales</lem>
+                  <lem ana="#φ">conditiones subeunt tales</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      >sunt huiuscemodi</rdg>
@@ -4918,7 +4923,7 @@
                   <lem ana="#O #A #π #ς #φ #ρ">haec</lem>
                   <rdg ana="#A" type="unique" wit="#Par1">nec</rdg>
                </app> enim <app>
-                  <lem ana="φ">omnia</lem>
+                  <lem ana="#φ">omnia</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      >universa</rdg>
@@ -4932,9 +4937,9 @@
                   <lem ana="#O #A #φ">ac</lem>
                   <rdg ana="#π #ς #ρ" type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      cert="unknown">et</rdg>
-                  <rdg ana="φ" type="unique" wit="#D">ad</rdg>
+                  <rdg ana="#φ" type="unique" wit="#D">ad</rdg>
                </app> dignitatem. <app>
-                  <lem ana="φ">Potissimum</lem>
+                  <lem ana="#φ">Potissimum</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      >maxime</rdg>
@@ -4948,13 +4953,13 @@
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">ipsa</lem>
-                  <rdg ana="φ" type="unique" wit="#E"/>
+                  <rdg ana="#φ" type="unique" cause="om" wit="#E"/>
                </app> magnficentia, <app>
                   <lem ana="#O #A #π #ς #φ #ρ">quem ad modum</lem>
                   <rdg ana="#ς" type="unique" wit="#f">quem ad modum ut</rdg>
                </app> diximus<note xml:id="n6" place="above" resp="#AG">Cf. Arist. EN IV, 1122b, ll.
                   19-23.</note>: <app>
-                  <lem ana="φ">et maximas enim eas ipsas et honorabilissimas esse constat</lem>
+                  <lem ana="#φ">et maximas enim eas ipsas et honorabilissimas esse constat</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">haec enim et maxima et
                      praestabilissima sunt ut patet</rdg>
                   <rdg ana="#A" type="draft"
@@ -4962,7 +4967,7 @@
                      >hae namque et maximae et praestabilissimae sunt ut patet</rdg>
                   <rdg ana="#π #ς #ρ" type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v">et
                      maximae enim et honorabilissi mae sunt</rdg>
-                  <rdg ana="φ" type="unique" wit="#D">et maximas eas ipsas et honorabilissimas esse
+                  <rdg ana="#φ" type="unique" wit="#D">et maximas eas ipsas et honorabilissimas esse
                      constat</rdg>
                </app>.</p>
             <p><app>
@@ -5110,9 +5115,9 @@
                      >ornamentum quoddam ut patet</rdg>
                </app> ̶ et item <app>
                   <lem ana="#π #ς #φ #ρ">in iis</lem>
-                  <rdg ana="#O #A" type="draft"
+                  <rdg ana="#O #A" type="draft" cert="unknown"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
-                     cert="unknown">in hisce</rdg>
+                     >in hisce</rdg>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">hisce</rdg>
                   <rdg ana="#ρ" type="unique" wit="#v">iis</rdg>
                </app>
@@ -5430,9 +5435,9 @@
                </app>
                <app>
                   <lem ana="#φ">sese</lem>
-                  <rdg ana="#O #A #π #ς #ρ" type="draft"
+                  <rdg ana="#O #A #π #ς #ρ" type="draft" cert="unknown"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
-                     cert="unknown">se</rdg>
+                     >se</rdg>
                   <rdg ana="#A" type="unique" wit="#Plut3">sese</rdg>
                </app>
                <app>
@@ -5557,7 +5562,7 @@
                      >qui namque</rdg>
                </app> non <app>
                   <lem ana="#A #π #ς #φ #ρ">pro dignitate hoc</lem>
-                  <rdg ana="#O" type="draft" wit="C #Ric15 #Ric16">digne id ipsum</rdg>
+                  <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">digne id ipsum</rdg>
                </app> facit stolidus est, <app>
                   <lem ana="#O #A #π #ς #φ #ρ">at</lem>
                   <rdg ana="#A" type="unique" wit="#Par1" cause="om"><lacunaStart wit="#Par1"
@@ -5573,7 +5578,7 @@
                <app>
                   <lem ana="#π #ς #φ #ρ">demens</lem>
                   <rdg ana="#O #A" type="draft"
-                     wit="C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par2 #Vall #Vrat"
+                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par2 #Vall #Vrat"
                      >demens profecto</rdg>
                </app>, <app>
                   <lem ana="#O #A #π #ς #φ #ρ">nemo</lem>
@@ -5615,14 +5620,14 @@
                   />
                </app> modestus quidem, <app>
                   <lem ana="#O #A #π #ς #φ #ρ">at</lem>
-                  <rdg ana="#A" type="unique" wit="#Urb2"/>
+                  <rdg ana="#A" type="unique" cause="om" wit="#Urb2"/>
                </app> non magnanimus est. <app>
                   <lem ana="#O #A #π #ς #φ #ρ">Magnanimitas</lem>
                   <rdg ana="#A" type="unique" wit="#Faes">magnanimus</rdg>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">enim</lem>
-                  <rdg ana="#A" type="unique" wit="#Plut3"/>
+                  <rdg ana="#A" type="unique" cause="om" wit="#Plut3"/>
                </app> in magnitudine, <app>
                   <lem ana="#π #ς #φ #ρ">sicut et</lem>
                   <rdg ana="#O #A" type="draft"
@@ -5733,9 +5738,10 @@
                      >magna quidem meretur se ipsum tamen dignum esse minoribus arbitratur</rdg>
                   <rdg ana="#A" type="var_auct" wit="#Ch1 #Urb1 #Plut3 #Ric23 #Vall #Vrat">cum magna
                      mereatur se ipsum dignum esse minoribus arbitratur</rdg>
-                  <rdg ana="#A" type="unique" wit="#Ott"><lacunaEnd wit="#Ott"/></rdg>
-                  <rdg ana="#A" type="unique" wit="#Ott">se ipsum tamen dignum esse minoribus
-                     arbitratur</rdg>
+                  <rdg ana="#A" type="unique" wit="#Ott"><lacunaEnd wit="#Ott"/> se ipsum tamen
+                     dignum esse minoribus arbitratur</rdg>
+                  <!--   <rdg ana="#A" type="unique" wit="#Ott">se ipsum tamen dignum esse minoribus
+                     arbitratur</rdg> -->
                   <rdg ana="#A" type="unique" wit="#Faes">cum magna mereatur se ipsum se ipsum
                      dignum esse minoribus arbitratur</rdg>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">cum magna mereatur se ipsum
@@ -5765,7 +5771,10 @@
                   <rdg ana="#A" type="unique" wit="#Vat">melius</rdg>
                   <rdg ana="#A" type="unique" wit="#Par2" cause="om"/>
                </app>. Dignum enim eo se <app>
-                  <lem ana="#O #A #π #ς #φ">ipsum</lem>
+                  <lem ana="#O #A #π #ς #φ"
+                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 
+                     #f #t #m #p #g 
+                     #Amstel #v">ipsum</lem>
                   <rdg ana="#ρ" type="draft" wit="#r">ipse</rdg>
                </app> censet quod ad dignitatem suam accommodatur, <app>
                   <lem ana="#φ">illorum autem alter</lem>
@@ -5940,7 +5949,7 @@
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ">se ipsos</lem>
-                  <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">se</rdg>
+                  <rdg ana="#ρ" type="draft" cert="unknown" wit="#Amstel #r #v">se</rdg>
                </app> dignos esse honore <app>
                   <lem ana="#π #ς #φ #ρ">pro dignitate censent</lem>
                   <rdg ana="#O #A" type="draft"
@@ -6143,9 +6152,9 @@
                <app>
                   <lem ana="#π #ς #φ #ρ">pro iis</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16"/>
-                  <rdg ana="#A" type="draft"
+                  <rdg ana="#A" type="draft" cert="unknown"
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall"
-                     cert="unknown">pro hisce</rdg>
+                  >pro hisce</rdg>
                   <rdg ana="#A" type="unique" wit="#Vrat">probis</rdg>
                </app>
                <app>
@@ -6250,7 +6259,7 @@
                </app>
                <app>
                   <lem ana="#φ">fuerit erga ipsum</lem>
-                  <rdg ana="#A #O" type="draft"
+                  <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >ipsum umquam attinget</rdg>
                   <rdg ana="#π #ς #ρ" type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v">fuerit
@@ -6264,28 +6273,28 @@
                      >maxime</rdg>
                </app> circa honores versatur, <app>
                   <lem ana="#π #ς #φ #ρ">et circa tamen</lem>
-                  <rdg ana="#A #O" type="draft"
+                  <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >verum et circa</rdg>
                </app> divitias et <app>
                   <lem ana="#π #ς #φ #ρ">potestates</lem>
-                  <rdg ana="#A #O" type="draft"
+                  <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >potentiam</rdg>
                   <rdg ana="#ς" type="unique" wit="#g">potestatem</rdg>
                </app> et <app>
                   <lem ana="#π #ς #φ #ρ">omnem</lem>
-                  <rdg ana="#A #O" type="draft"
+                  <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >omnem etiam</rdg>
                </app> prosperitatem adversitatemque fortunae, quocumque <app>
                   <lem ana="#π #ς #φ #ρ">evenerit</lem>
-                  <rdg ana="#A #O" type="draft"
+                  <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >evenit</rdg>
                </app> modo, <app>
                   <lem ana="#π #ς #φ #ρ">moderate</lem>
-                  <rdg ana="#A #O" type="draft"
+                  <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall"
                      >moderate semper</rdg>
                   <rdg ana="#A" type="unique" wit="#Vrat">moderate semper semper</rdg>
@@ -6294,9 +6303,9 @@
                   <rdg ana="#A" type="unique" wit="#Vall">vehemementer</rdg>
                </app> in prosperitate laetabitur neque nimium in adversitate dolebit. <app>
                   <lem ana="#ς #φ #ρ">Neque</lem>
-                  <rdg ana="#A #O" type="draft"
+                  <rdg ana="#O #A" type="draft"  cert="unknown"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
-                     cert="unknown">nec</rdg>
+                     >nec</rdg>
                   <rdg ana="#π" type="draft" wit="#S #Ox1">non</rdg>
                   <rdg ana="#A" type="unique" wit="#Plut84">haec</rdg>
                   <rdg ana="#A" type="corr" wit="#Plut89" hand="scribe1"><subst>
@@ -6606,7 +6615,7 @@
                      pericula</rdg>
                </app>, propterea quod res <app>
                   <lem ana="#φ">perpaucas</lem>
-                  <rdg ana="#A #O" type="draft"
+                  <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >paucas admodum</rdg>
                   <rdg ana="#π #ς #ρ" type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v"
@@ -6937,8 +6946,7 @@
                      >magnus honos vel res agenda magna compellit</rdg>
                   <rdg ana="#A" type="unique" wit="#Ch2">magnos honos vel res agenda magna
                      compellit</rdg>
-                  <rdg ana="#A" type="polygenetic" wit="#Plut3 #Mon">res agendas magnas
-                     compellit</rdg>
+                  <rdg ana="#A" type="joining" wit="#Plut3 #Mon">res agendas magnas compellit</rdg>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">res agendas magna
                      compellit</rdg>
                </app>, et paucas quidem <app>
@@ -6990,7 +6998,7 @@
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >et etiam agere</rdg>
-                  <rdg ana="#π" type="draft" wit="# #Ox1" cert="unknown">et agere</rdg>
+                  <rdg ana="#π" type="draft" wit="#S #Ox1" cert="unknown">et agere</rdg>
                   <rdg ana="#A" type="polygenetic" wit="#Plut3 #Ric23">etiam agere</rdg>
                </app> - <app>
                   <lem ana="#π #ς #φ">est enim hoc contemptoris, quapropter utitur libertate; est
@@ -7358,7 +7366,7 @@
                </app>, sed <app>
                   <lem ana="#φ">ignavi</lem>
                   <rdg ana="#O #A" type="draft"
-                     wit="C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
+                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >acuti</rdg>
                   <note resp="#AG"><foreign xml:lang="latin">"nonnulli libri habent acuti nonnulli
                         segnes" in marg. add. Ric16; fort. "morosi" s. l. add. Vall</foreign></note>
@@ -7492,7 +7500,7 @@
                </app> animi pusillanimitas opponitur magis quam lentitudo: fit enim <app>
                   <lem ana="#φ">magis quam illa</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
-                     wit="C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
+                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      >magis</rdg>
                   <rdg ana="#A" type="unique" wit="#Par2">igitur</rdg>
                </app> et <app>
@@ -9255,7 +9263,7 @@
                </app> de singulis <app>
                   <lem ana="#ς #φ #ρ">fuerit pertractatum</lem>
                   <rdg ana="#O #A #π" type="draft"
-                     wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat S Ox1"
+                     wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"
                      >transigamus</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">fuerit pertractatum</rdg>
                   <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
@@ -10136,9 +10144,13 @@
                   <rdg ana="#A" type="unique" wit="#Faes" cause="om"/>
                </app>
                <app>
-                  <lem ana="#A #π #ς #φ #ρ">dicendo</lem>
+                  <lem ana="#A #π #ς #φ #ρ"
+                     wit="#Ric15 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
+                     >dicendo</lem>
                   <rdg ana="#O" type="draft" wit="#C">dicere</rdg>
                   <rdg ana="#O" type="var_auct" wit="#Ric16">in dicendo</rdg>
+                  <note resp="#AG">Ritengo che la lezione di Ric15 si sia originata a partire da "in
+                     dicendo" con successiva omissione della preposizione.</note>
                </app> inter tales <app>
                   <lem ana="#π #ς #φ #ρ">et</lem>
                   <rdg ana="#O #A" type="draft"
@@ -10400,7 +10412,7 @@
             <p>Accommodatur autem <app>
                   <lem ana="#ς #φ #ρ">huic</lem>
                   <rdg ana="#O #A #π " type="draft"
-                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat S Ox1"
+                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"
                   />
                </app>
                <app>
@@ -10970,7 +10982,7 @@
                <app>
                   <lem ana="#φ">modo quodam</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
-                     wit="C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
+                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      >quodam modo</rdg>
                   <rdg ana="#A" type="unique" wit="#Ox2" cause="om"/>
                </app>
