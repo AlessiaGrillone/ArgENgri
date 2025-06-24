@@ -2164,9 +2164,8 @@
                      >ad earum magis videtur pertinere possessionem</rdg>
                   <rdg ana="#O" type="unique" wit="#Ric16">ad earum videtur magis pertinere
                      possessionem</rdg>
-                  <rdg ana="#A" type="unique" wit="#Vall"><lacunaEnd wit="#Vall"/> pertinere
-                     possessionem</rdg>
-                  <!--    <rdg ana="#A" type="unique" wit="#Vall">pertinere possessionem</rdg> -->
+                  <rdg ana="#A" type="unique" wit="#Vall"><lacunaEnd wit="#Vall"/></rdg>
+                 <rdg ana="#A" type="unique" wit="#Vall">pertinere possessionem</rdg>
                </app> . Quocirca <app>
                   <lem ana="#O #A #π #ς #φ #ρ">viri</lem>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">et viri</rdg>
