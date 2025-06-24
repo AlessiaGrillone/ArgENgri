@@ -5750,10 +5750,9 @@
                      >magna quidem meretur se ipsum tamen dignum esse minoribus arbitratur</rdg>
                   <rdg ana="#A" type="var_auct" wit="#Ch1 #Urb1 #Plut3 #Ric23 #Vall #Vrat">cum magna
                      mereatur se ipsum dignum esse minoribus arbitratur</rdg>
-                  <rdg ana="#A" type="unique" wit="#Ott"><lacunaEnd wit="#Ott"/> se ipsum tamen
-                     dignum esse minoribus arbitratur</rdg>
-                  <!--   <rdg ana="#A" type="unique" wit="#Ott">se ipsum tamen dignum esse minoribus
-                     arbitratur</rdg> -->
+                  <rdg ana="#A" type="unique" wit="#Ott"><lacunaEnd wit="#Ott"/></rdg>
+                 <rdg ana="#A" type="unique" wit="#Ott">se ipsum tamen dignum esse minoribus
+                     arbitratur</rdg>
                   <rdg ana="#A" type="unique" wit="#Faes">cum magna mereatur se ipsum se ipsum
                      dignum esse minoribus arbitratur</rdg>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">cum magna mereatur se ipsum
@@ -10221,8 +10220,8 @@
                      wit="#C #Ric15 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >in hisce quae risum movent</rdg>
                   <rdg ana="#O" type="unique" wit="#Ric16">in hisce quae movent risum</rdg>
-                  <rdg ana="#A" type="unique" wit="#Ch1"><lacunaEnd wit="#Ch1"/> movent</rdg>
-                  <!--  <rdg ana="#A" type="unique" wit="#Ch1">movent</rdg> -->
+                  <rdg ana="#A" type="unique" wit="#Ch1"><lacunaEnd wit="#Ch1"/></rdg>
+                 <rdg ana="#A" type="unique" wit="#Ch1">movent</rdg>
                   <rdg ana="#A" type="corr" wit="#Ch1" hand="scribeX"><add place="margin"
                         >defectionemve qui igitur in hisce quae risum</add></rdg>
                </app> exsuperant scurrae <app>
