@@ -195,12 +195,7 @@
     "showReadingExponent": true,
     "toolHeatMap": true,
     "versions": [
-        "O",
-        "A",
-        "π",
-        "ς",
-        "φ",
-        "ρ"
+       
     ],
     "listDef": "<listWit>, <listChange>",
     "versionDef": "<witness>, <change>",
