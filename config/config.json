@@ -195,7 +195,7 @@
     "showReadingExponent": true,
     "toolHeatMap": true,
     "versions": [
-       
+
     ],
     "listDef": "<listWit>, <listChange>",
     "versionDef": "<witness>, <change>",
