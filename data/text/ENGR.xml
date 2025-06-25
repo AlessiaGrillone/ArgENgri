@@ -27,23 +27,176 @@
                   >http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg010.perseus-grc1:1094a</ref>
             </bibl>
             <listWit>
-               <witness xml:id="Nb">Venezia, BNM, Graeci class. IV cod. 53, ff. 97r-100v</witness>
-               <witness xml:id="P2">Paris, BnF, Coisl. 161, ff. 56r-64r</witness>
-               <witness xml:id="Pb">Città del Vaticano, BAV, Vat. Gr. 1342, ff. 48r-55r</witness>
-               <witness xml:id="Kb">Firenze, BML, Plut. 81.11, ff. 39r-52r</witness>
-               <witness xml:id="Ob">Firenze, BR, Ricc. 46, ff. 25v-33r</witness>
-               <witness xml:id="Lb">Paris, BnF, Graec. 1854, ff. 49v-69v</witness>
-               <witness xml:id="Mb">Venezia, BNM, Graeci Fondo Antico, ms. 213</witness>
-               <witness xml:id="Ga">Venezia, BNM, Graeci Fondo Antico, ms. 212, ff. 24v-34r</witness>
-               <witness xml:id="F">Firenze, BML, Plut. 81.18, ff. 19r-33v</witness>
-               <witness xml:id="Utin">Udine, Biblioteca Arcivescovile, VI.2 coll. 255</witness>
+               <witness xml:id="Nb">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Venezia</settlement>
+                        <repository>BNM</repository>
+                        <collection>Graeci class. IV</collection>
+                        <msName>cod. 53</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 97r-100v</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="P2">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Paris</settlement>
+                        <repository>BnF</repository>
+                        <collection>Coisl.</collection>
+                        <msName>161</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 56r-64r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Pb">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Città del Vaticano</settlement>
+                        <repository>BAV</repository>
+                        <collection>Vat. Gr.</collection>
+                        <msName>1342</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 48r-55r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Kb">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Firenze</settlement>
+                        <repository>BML</repository>
+                        <collection>Laur. Plut.</collection>
+                        <msName>81.11</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 39r-52r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Ob">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Firenze</settlement>
+                        <repository>BR</repository>
+                        <collection>Ricc.</collection>
+                        <msName>46</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 25v-33r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Lb"><msDesc>
+                  <msIdentifier>
+                     <settlement>Paris</settlement>
+                     <repository>BnF</repository>
+                     <collection>Graec.</collection>
+                     <msName>1854</msName>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus>ff. 49v-69v</locus>
+                        <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                     </msItem>
+                  </msContents>
+               </msDesc></witness>
+               <witness xml:id="Mb">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Venezia</settlement>
+                        <repository>BNM</repository>
+                        <collection>Graeci Fondo Antico</collection>
+                        <msName>213</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus/>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Ga">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Venezia</settlement>
+                        <repository>BNM</repository>
+                        <collection>Graeci Fondo Antico</collection>
+                        <msName>212</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 24v-34r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="F">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Firenze</settlement>
+                        <repository>BML</repository>
+                        <collection>Laur. Plut.</collection>
+                        <msName>81.18</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 19r-33v</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
+               <witness xml:id="Utin">
+                  <msDesc>
+                     <msIdentifier>
+                        <settlement>Udine</settlement>
+                        <repository>Biblioteca Arcivescovile</repository>
+                        <collection>VI.2</collection>
+                        <msName>coll. 255</msName>
+                     </msIdentifier>
+                     <msContents>
+                        <msItem>
+                           <locus>ff. 27v-37r</locus>
+                           <title>Aristotelis Ethica Nicomachea, Liber IV</title>
+                        </msItem>
+                     </msContents>
+                  </msDesc>
+               </witness>
             </listWit>
+            <list><head>Viri docti</head>
+               <item xml:id="Bywater">Bywater</item>
+               <item xml:id="Coraes">Coraes</item>
+               <item xml:id="Imelmann">Imelmann</item>
+               <item xml:id="Turnebus">Turnebus</item>
+               <item xml:id="Vahlen">Vahlen</item>
+            </list>
             <list>
                <head>Sigle adoperate</head>
                <item><abbr><ref xml:id="AG" target="#AG">AG</ref></abbr>: <expan>Alessia
                      Grillone</expan></item>
-               <item><abbr><ref xml:id="ed" target="#ed">ed</ref></abbr>: <expan>Editore (I.
-                     Bywater)</expan></item>
                <item><abbr>BAV</abbr>: <expan>Biblioteca Apostolica Vaticana</expan></item>
                <item><abbr>BNM</abbr>: <expan>Biblioteca Nazionale Marciana</expan></item>
                <item><abbr>BML</abbr>: <expan>Biblioteca Medicea Laurenziana</expan></item>
@@ -150,7 +303,7 @@
                ἀδικεῖσθαι, μὴ τιμῶν γε τὰ χρήματα, καὶ μᾶλλον ἀχθόμενος εἴ τι δέον μὴ ἀνάλωσεν ἢ
                λυπούμενος εἰ μὴ δέον τι ἀνάλωσεν, καὶ τῷ Σιμωνίδῃ οὐκ ἀρεσκόμενος.</p>
             <p corresp="#ENGA_p_IV-I-1-19" xml:id="ENGR_p_IV-I-1-19">ὁ δ᾽ ἄσωτος καὶ ἐν τούτοις διαμαρτάνει‧ οὔτε γὰρ ἥδεται ἐφ᾽ οἷς δεῖ <app>
-                  <lem resp="Coraes">οὐδὲ ὡς δεῖ</lem>
+                  <lem resp="#Coraes">οὐδὲ ὡς δεῖ</lem>
                   <rdg wit="#Nb #P2 #Lb">οὔτε ὡς δεῖ</rdg>
                   <rdg wit="#Pb"><add hand="m_2">οὔτε ὡς δεῖ</add></rdg>
                   <rdg wit="Mb">καὶ ὃτε δεῖ καὶ ὡς δεῖ</rdg>
@@ -295,7 +448,7 @@
                ἀναφέρεται τὸ τίς ὢν καὶ τίνων ὑπαρχόντων‧ ἄξια γὰρ δεῖ τούτων εἶναι, καὶ μὴ μόνον τῷ
                ἔργῳ ἀλλὰ καὶ τῷ ποιοῦντι πρέπειν. διὸ πένης μὲν οὐκ ἂν εἴη μεγαλοπρεπής‧ οὐ γὰρ
                ἔστιν ἀφ᾽ ὧν πολλὰ δαπανήσει πρεπόντως‧ ὁ δ᾽ ἐπιχειρῶν ἠλίθιος‧ παρὰ τὴν ἀξίαν γὰρ
-               καὶ τὸ δέον, κατ᾽ ἀρετὴν δὲ τὸ ὀρθῶς. Πρέπει δὲ <secl resp="#ed">καὶ</secl> οἷς <app>
+               καὶ τὸ δέον, κατ᾽ ἀρετὴν δὲ τὸ ὀρθῶς. Πρέπει δὲ <secl resp="#Bywater">καὶ</secl> οἷς <app>
                   <lem wit="#Pb #Kb #Ob #F #Utin">τοιαῦτα</lem>
                   <rdg wit="#Nb #P2 #Lb #Ga">τὰ τοιαῦτα</rdg>
                </app> προϋπάρχει δι᾽ αὐτῶν ἢ <app>
@@ -318,9 +471,9 @@
                γὰρ ταῦτα), καὶ ἐν ἑκάστοις τὸ πρέπον‧ οὐ γὰρ ταὐτὰ ἁρμόζει θεοῖς καὶ ἀνθρώποις, οὐδ᾽
                ἐν ἱερῷ καὶ τάφῳ.</p>
             <p xml:id="p10_2">καὶ ἐπεὶ τῶν δαπανημάτων ἕκαστον μέγα ἐν τῷ γένει, καὶ
-               μεγαλοπρεπέστατον <supplied resp="#ed">ἁπλῶς</supplied> μὲν τὸ ἐν μεγάλῳ μέγα,
+               μεγαλοπρεπέστατον <supplied resp="#Bywater">ἁπλῶς</supplied> μὲν τὸ ἐν μεγάλῳ μέγα,
                ἐνταῦθα δὲ τὸ ἐν τούτοις μέγα, καὶ διαφέρει τὸ ἐν τῷ ἔργῳ μέγα τοῦ ἐν τῷ δαπανήματι‧ <app>
-                  <lem resp="#ed">σφαῖρα μὲν γὰρ ἡ καλλίστη ἢ λήκυθος</lem>
+                  <lem resp="#Bywater">σφαῖρα μὲν γὰρ ἡ καλλίστη ἢ λήκυθος</lem>
                   <rdg wit="#Nb #P2 #Lb #Ga">σφαῖρα μὲν γὰρ ἢ λήκυθος ἡ καλλίστη</rdg>
                   <rdg wit="#Pb #Kb #Ob #F #Utin">σφαῖρα μὲν γὰρ ἡ καλλίστη ἢ λήκυθος ἡ
                      καλλίστη</rdg>
@@ -362,13 +515,13 @@
                τοῖς θεοῖς ἀπονέμομεν, καὶ οὗ μάλιστ᾽ ἐφίενται οἱ ἐν ἀξιώματι, καὶ τὸ ἐπὶ τοῖς
                καλλίστοις ἆθλον‧ τοιοῦτον δ᾽ ἡ τιμή‧ μέγιστον γὰρ δὴ τοῦτο τῶν ἐκτὸς ἀγαθῶν‧ περὶ
                τιμὰς δὴ καὶ ἀτιμίας ὁ μεγαλόψυχός ἐστιν ὡς δεῖ. καὶ ἄνευ δὲ λόγου φαίνονται οἱ
-               μεγαλόψυχοι περὶ τιμὴν εἶναι‧ τιμῆς γὰρ μάλιστα <secl resp="#ed">οἱ μεγάλοι</secl>
+               μεγαλόψυχοι περὶ τιμὴν εἶναι‧ τιμῆς γὰρ μάλιστα <secl resp="#Bywater">οἱ μεγάλοι</secl>
                ἀξιοῦσιν ἑαυτούς, κατ᾽ ἀξίαν δέ. ὁ δὲ μικρόψυχος ἐλλείπει καὶ πρὸς ἑαυτὸν καὶ πρὸς τὸ
                τοῦ μεγαλοψύχου ἀξίωμα. ὁ δὲ χαῦνος πρὸς ἑαυτὸν μὲν ὑπερβάλλει, οὐ μὴν τόν γε
                μεγαλόψυχον.</p>
             <p xml:id="p8_3">ὁ δὲ μεγαλόψυχος, εἴπερ τῶν μεγίστων ἄξιος, ἄριστος ἂν εἴη‧ μείζονος
                γὰρ ἀεὶ ὁ βελτίων ἄξιος, καὶ μεγίστων ὁ ἄριστος. τὸν ὡς ἀληθῶς ἄρα μεγαλόψυχον δεῖ
-               ἀγαθὸν εἶναι. καὶ δόξειεν <add resp="Turnebus">ἂν</add> εἶναι μεγαλοψύχου τὸ ἐν
+               ἀγαθὸν εἶναι. καὶ δόξειεν <add resp="#Turnebus">ἂν</add> εἶναι μεγαλοψύχου τὸ ἐν
                ἑκάστῃ ἀρετῇ μέγα. οὐδαμῶς τ᾽ ἂν ἁρμόζοι μεγαλοψύχῳ φεύγειν παρασείσαντι, οὐδ᾽
                ἀδικεῖν‧ τίνος γὰρ ἕνεκα πράξει αἰσχρὰ ᾧ γ᾽ οὐδὲν μέγα; καθ᾽ ἕκαστα δ᾽ ἐπισκοποῦντι
                πάμπαν γελοῖος φαίνοιτ᾽ ἂν ὁ μεγαλόψυχος μὴ ἀγαθὸς ὤν. οὐκ εἴη δ᾽ ἂν οὐδὲ τιμῆς ἄξιος
@@ -425,11 +578,11 @@
             <p xml:id="p13_3">καὶ οἷος εὖ ποιεῖν, εὐεργετούμενος δ᾽ αἰσχύνεται‧ τὸ μὲν γὰρ
                ὑπερέχοντος, τὸ δ᾽ ὑπερεχομένου. καὶ ἀντευεργετικὸς πλειόνων‧ οὕτω γάρ οἱ προσοφλήσει
                ὁ ὑπάρξας καὶ ἔσται εὖ πεπονθώς. δοκοῦσι δὲ καὶ μνημονεύειν <app>
-                  <lem resp="#ed">οὗ</lem>
+                  <lem resp="#Bywater">οὗ</lem>
                   <rdg wit="#P2 #Nb #Pb #Kb #Ob #Lb #Mb #F #Utin">οὕς</rdg>
                </app> ἂν ποιήσωσιν εὖ, ὧν δ᾽ ἂν πάθωσιν οὔ (ἐλάττων γὰρ ὁ παθὼν εὖ τοῦ ποιήσαντος,
                βούλεται δ᾽ ὑπερέχειν), καὶ τὰ μὲν ἡδέως <app>
-                  <lem resp="#ed">ἀκούειν</lem>
+                  <lem resp="#Bywater">ἀκούειν</lem>
                   <rdg wit="#P2 #Nb #Pb #Kb #Ob #Lb #Mb #F #Utin">ἀκούει</rdg>
                </app>, τὰ δ᾽ ἀηδῶς‧ διὸ καὶ τὴν Θέτιν οὐ λέγειν τὰς εὐεργεσίας τῷ Διί, οὐδ᾽ οἱ
                Λάκωνες πρὸς τοὺς Ἀθηναίους, ἀλλ᾽ ἃ πεπόνθεσαν εὖ.</p>
@@ -446,7 +599,7 @@
                   <lem wit="#Kb">ἀμελεῖν</lem>
                   <rdg wit="#P2 #Nb #Pb #Ob #Lb #Mb #F #Utin">μέλειν</rdg>
                </app> τῆς ἀληθείας μᾶλλον ἢ τῆς δόξης), καὶ λέγειν καὶ πράττειν φανερῶς (<app>
-                  <lem resp="#ed">παρρησιαστὴς γὰρ διὰ τὸ καταφρονητικὸς εἶναι, καὶ
+                  <lem resp="#Bywater">παρρησιαστὴς γὰρ διὰ τὸ καταφρονητικὸς εἶναι, καὶ
                      ἀληθευτικός</lem>
                   <rdg wit="#P2 #Mb">παρρησιαστικὸς γὰρ διὸ καὶ καταφρονητικὸς καταφρονητικὸς δὲ διὸ
                      παρρησιαστικὸς καὶ ἀληθευτικὸς</rdg>
@@ -460,7 +613,7 @@
                      παρρησιαστικὸς καὶ ἀληθευτικὸς </rdg>
                   <rdg wit="#F"><add place="margin">παρρησιαστικός γὰρ διὰ τὸν καταφρονητικὸν εἶναι
                         καταφρονητικός δὲ διὰ παρρησιαστικός καὶ ἀληθευτικὸς</add></rdg>
-               </app>, πλὴν ὅσα μὴ δι᾽ εἰρωνείαν <secl resp="#ed">εἰρωνεία δὲ</secl> πρὸς τοὺς
+               </app>, πλὴν ὅσα μὴ δι᾽ εἰρωνείαν <secl resp="#Bywater">εἰρωνεία δὲ</secl> πρὸς τοὺς
                πολλούς), καὶ πρὸς ἄλλον μὴ δύνασθαι ζῆν ἀλλ᾽ ἢ φίλον‧ δουλικὸν γάρ‧ διὸ καὶ πάντες
                οἱ κόλακες θητικοὶ καὶ οἱ ταπεινοὶ κόλακες.</p>
             <p xml:id="p17_3">οὐδὲ θαυμαστικός‧ οὐδὲν γὰρ μέγα αὐτῷ ἐστίν. οὐδὲ μνησίκακος‧ οὐ γὰρ
@@ -518,7 +671,7 @@
                καὶ σώφρονα, ὥσπερ καὶ ἐν τοῖς πρώτοις εἴπομεν.</p>
             <p xml:id="p3_4">δῆλον δ᾽ ὅτι πλεοναχῶς τοῦ φιλοτοιούτου λεγομένου οὐκ ἐπὶ τὸ αὐτὸ
                φέρομεν ἀεὶ <app>
-                  <lem resp="#ed">τὸ φιλότιμον</lem>
+                  <lem resp="#Bywater">τὸ φιλότιμον</lem>
                   <rdg wit="#Nb #P2 #Pb #Kb #Ob #Lb #Mb #F #Utin">τὸν φιλότιμον</rdg>
                </app>, ἀλλ᾽ ἐπαινοῦντες μὲν ἐπὶ τὸ μᾶλλον ἢ οἱ πολλοί, ψέγοντες δ᾽ ἐπὶ τὸ μᾶλλον ἢ
                δεῖ.</p>
@@ -569,7 +722,7 @@
                οὔτ᾽ ἐπὶ τὸ μᾶλλον οὔτ᾽ ἐπὶ τὸ ἧττον‧ ἐνίοτε γὰρ τοὺς ἐλλείποντας ἐπαινοῦμεν καὶ
                πράους φαμέν, καὶ τοὺς χαλεπαίνοντας ἀνδρώδεις ὡς δυναμένους ἄρχειν. ὁ δὴ πόσον καὶ
                πῶς παρεκβαίνων ψεκτός, οὐ ῥᾴδιον τῷ λόγῳ ἀποδοῦναι‧ ἐν γὰρ τοῖς καθ᾽ ἕκαστα <app>
-                  <lem resp="#ed">κἀν</lem>
+                  <lem resp="#Bywater">κἀν</lem>
                   <rdg wit="#Nb #P2 #Pb #Kb #Ob #Lb #Mb #F #Utin">καὶ</rdg>
                </app> τῇ αἰσθήσει ἡ κρίσις. ἀλλὰ τό γε <app>
                   <lem wit="#Pb #Kb">τοσοῦτον</lem>
@@ -613,7 +766,7 @@
          </div>
          <div corresp="#ENGA_div_07" xml:id="ENGR_div_07">
             <head><num rend="bold">IV, 7 = IV, IV, 2</num></head>
-            <p xml:id="p1_7">Περὶ τὰ αὐτὰ δὲ σχεδόν ἐστι καὶ ἡ τῆς ἀλαζονείας <add resp="Imelmann "
+            <p xml:id="p1_7">Περὶ τὰ αὐτὰ δὲ σχεδόν ἐστι καὶ ἡ τῆς ἀλαζονείας <add resp="#Imelmann "
                   >καὶ εἰρωνείας</add> μεσότης‧ ἀνώνυμος δὲ καὶ αὐτή. οὐ χεῖρον δὲ καὶ τὰς τοιαύτας
                ἐπελθεῖν‧ μᾶλλόν τε γὰρ ἂν εἰδείημεν τὰ περὶ τὸ ἦθος, καθ᾽ ἕκαστον διελθόντες, καὶ
                μεσότητας εἶναι τὰς ἀρετὰς πιστεύσαιμεν ἄν, ἐπὶ πάντων οὕτως ἔχον συνιδόντες. ἐν δὴ
