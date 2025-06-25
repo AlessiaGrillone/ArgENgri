@@ -1846,17 +1846,6 @@
             registrare per prime le varianti d’autore (<hi rend="italic">draft</hi> e <hi
                rend="italic">var_auct</hi>), secondo l'ordine cronologico delle redazioni, e di
             seguito tutte le altre.</p>
-         <p>Da ultimo, la presente edizione consente di confrontare la traduzione con il testo
-            aristotelico secondo l'edizione stabilita da <ref target="#Bywater_1894">Ingram
-               Bywater</ref>, grazie al collegamento intertestuale a livello di paragrafo (<hi
-               rend="italic">p</hi>) stabilito attraverso l’attributo <hi rend="italic"
-               >@corresp</hi> (<foreign xml:lang="eng" rend="italic">corresponds</foreign>). Il
-            testo greco è dotato, sempre per mezzo del <foreign xml:lang="eng" rend="italic"
-               >Critical Apparatus module</foreign>, di un apparato essenziale, in cui sono state
-            registrate solo le varianti non accolte a testo, ma che trovano corrispondenza nella
-            versione argiropulea; inoltre, ho provveduto a segnalare gli interventi congetturali,
-            contrassegnati dall’attributo <hi rend="italic">@resp</hi> (<foreign xml:lang="eng"
-               rend="italic">responsible party</foreign>) per indicarne la paternità.</p>
          <p>
             <list>
                <head>Sigle adoperate:</head>
@@ -6846,9 +6835,9 @@
                   <rdg ana="#A" type="unique" wit="#Plut3">enarrat beneficia lovi</rdg>
                </app>
                <app>
-                  <lem ana="#A #π #ς #φ #ρ"><seg source="#FGrHist">nec Atheniensibus
+                  <lem ana="#A #π #ς #φ #ρ"><seg source="#FGrH">nec Atheniensibus
                         Lacedaemonii</seg><!-- <ref type="parallel"
-                        target="#FGrHist">Jacoby FGrHist, II, B, frr. 15-17.</ref> --></lem>
+                        target="#FGrH">Jacoby FGrH, II, B, frr. 15-17.</ref> --></lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">neque Lacaedemonii memorant
                      Atheniensibus ea</rdg>
                </app> quae contulerunt in <app>
@@ -11462,7 +11451,7 @@
                <head>Passi Paralleli</head>
                <bibl xml:id="Achar">
                   <author>Aristophanes</author>
-                  <title>Acarnanes</title>
+                  <title>Acharnenses</title>
                   <biblScope unit="line">738</biblScope>
                </bibl>
                <bibl xml:id="Pax">
@@ -11482,7 +11471,7 @@
                   <biblScope>1391 a 8-14, 1405 b 23-28</biblScope>
                </bibl>
                <bibl xml:id="Deipn">
-                  <author>Ateneus</author>
+                  <author>Athenaeus</author>
                   <title>Deipnosophistae</title>
                   <biblScope>XIV, 656 C</biblScope>
                </bibl>
@@ -11497,18 +11486,18 @@
                   <biblScope>XVII, 420</biblScope>
                </bibl>
                <bibl xml:id="Ecl">
-                  <author>Stobeus</author>
+                  <author>Stobaeus</author>
                   <title>Eclogae physicae et ethicae</title>
                   <biblScope>IV, 10, 38, 61</biblScope>
                </bibl>
-               <bibl xml:id="FGrHist">
+               <bibl xml:id="FGrH">
                   <author>F. Jacoby</author>
-                  <title>Die Fragmente der griechischen Historiker</title>
-                  <biblScope>FGrHist, II, B, frr. 15-17</biblScope>
+                  <title>Fragmente der griechischen Historiker</title>
+                  <biblScope>FGrH, II, B, frr. 15-17</biblScope>
                </bibl>
                <bibl xml:id="Char">
                   <author>Theophrastus</author>
-                  <title>Character</title>
+                  <title>Characteres</title>
                   <biblScope>Char. X, 13</biblScope>
                </bibl>
             </listBibl>
