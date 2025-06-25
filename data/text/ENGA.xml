@@ -801,8 +801,6 @@
                xml:lang="lat" rend="italic">infra</foreign> la <foreign xml:lang="lat" rend="italic"
                ana="#legenda">legenda</foreign> dei valori), e <hi rend="italic">@ana</hi>, ad
             indicare la redazione che trasmette una certa lezione.</p>
-         <p>La "Vista a collazione" (l'icona si trova in alto a destra) consente di confrontare il
-            testo édito con quello delle altre redazioni.</p>
          <p>
             <list>
                <head>Elenco dei principali valori associati all'attributo <hi rend="italic"
@@ -818,16 +816,6 @@
                   accidentalmente da più testimoni;</item>
                <item><hi rend="italic">adiaphora</hi>: le varianti adiafore comuni a più
                   testimoni.</item>
-            </list></p>
-         <p>
-            <list>
-               <head>Denominazione delle redazioni nella "Vista a collazione"</head>
-               <item>Version A: redazione φ</item>
-               <item>Version B: redazione O</item>
-               <item>Version C: redazione A</item>
-               <item>Version D: redazione π</item>
-               <item>Version E: redazione ς</item>
-               <item> Version F: redazione ρ</item>
             </list></p>
       </encodingDesc>
    </teiHeader>
