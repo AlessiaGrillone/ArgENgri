@@ -11496,14 +11496,14 @@
                   <biblScope>Char. X, 13</biblScope>
                </bibl>
             </listBibl>
-            <listbibli>
+            <listBibl>
                <head>Fonti</head>
                <bibl xml:id="Il">
                   <author>Homerus</author>
                   <title>Ilias</title>
                   <biblScope>I, 394-407; 503-504</biblScope>
                </bibl>
-            </listbibli>
+            </listBibl>
          </p>
       </back>
    </text>
