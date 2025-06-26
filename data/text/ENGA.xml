@@ -11133,7 +11133,7 @@
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">perinde</lem>
-                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"><del>perinde</del></rdg>
+                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"/><!-- <del>perinde</del> --><note>perinde del. manus incerta Ric15</note>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">atque</lem>
@@ -11547,7 +11547,7 @@
                </app> et <app>
                   <lem ana="#O #A #π #ς #φ #ρ">quempiam</lem>
                   <rdg ana="#O" type="var_auct" wit="#Ric16">se quempiam</rdg>
-                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"><del>se</del> quempiam</rdg>
+                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"><!-- <del>se</del> --> quempiam</rdg><note resp="#AG">se del. manus incerta Ric15</note>
                </app> non pudere res turpes agentem <app>
                   <lem ana="#π #ς #φ #ρ">improbum est</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">improba res quaedam existit</rdg>
