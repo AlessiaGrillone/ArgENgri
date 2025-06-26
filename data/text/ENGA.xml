@@ -2294,7 +2294,7 @@
                </app> qui <app>
                   <lem ana="#O #A #π #ς #φ #ρ">non</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16"/>
-                  <rdg ana="#A" type="corr" wit="#Ch1" hand="scribe1"><del>non</del></rdg>
+                  <rdg ana="#A" type="corr" wit="#Ch1" hand="scribe1"><del rend="overstrike">non</del></rdg> <!-- CTRLL VISUALIZZ -->
                   <rdg ana="#ς" type="unique" wit="#g" cause="om"/>
                </app> capit, et <app>
                   <lem ana="#π #ς #φ #ρ">laus etiam magis</lem>
