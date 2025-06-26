@@ -11474,12 +11474,7 @@
                   <author>Athenaeus</author>
                   <title>Deipnosophistae</title>
                   <biblScope>XIV, 656 C</biblScope>
-               </bibl>
-               <bibl xml:id="Il">
-                  <author>Homerus</author>
-                  <title>Ilias</title>
-                  <biblScope>I, 394-407; 503-504</biblScope>
-               </bibl>
+               </bibl>              
                <bibl xml:id="Od">
                   <author>Homerus</author>
                   <title>Odyssea</title>
@@ -11501,6 +11496,14 @@
                   <biblScope>Char. X, 13</biblScope>
                </bibl>
             </listBibl>
+            <listbibli>
+               <head>Fonti</head>
+               <bibl xml:id="Il">
+                  <author>Homerus</author>
+                  <title>Ilias</title>
+                  <biblScope>I, 394-407; 503-504</biblScope>
+               </bibl>
+            </listbibli>
          </p>
       </back>
    </text>
