@@ -124,39 +124,68 @@
     "maxWitsLoadTogether": 35,
     "witnessesGroups": [
         {
-            "groupName": "",
+            "groupName": "φ",
             "witnesses": [
-              
+                "V",
+                "D",
+                "E"
             ]
         },
         {
-            "groupName": "",
+            "groupName": "O",
             "witnesses": [
-           
+                "C",
+                "Ric15",
+                "Ric16"
             ]
         },
         {
-            "groupName": "",
+            "groupName": "A",
             "witnesses": [
-            
+                "Ch1",
+                "Ch2",
+                "Ott",
+                "Urb1",
+                "Urb2",
+                "Vat",
+                "Faes",
+                "Plut1",
+                "Plut3",
+                "Plut84",
+                "Plut89",
+                "Ric23",
+                "Holk",
+                "Mon",
+                "Ox2",
+                "Par1",
+                "Par2",
+                "Vall",
+                "Vrat"
             ]
         },
         {
-            "groupName": "",
+            "groupName": "π",
             "witnesses": [
-              
+                "S",
+                "Ox1"
             ]
         },
         {
-            "groupName": "",
+            "groupName": "ς",
             "witnesses": [
-               
+                "f",
+                "t",
+                "m",
+                "p",
+                "g"
             ]
         },
         {
-            "groupName": "",
+            "groupName": "ρ",
             "witnesses": [
-                
+                "Amstel",
+                "r",
+                "v"
             ]
         }
     ],

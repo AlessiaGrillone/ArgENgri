@@ -70,7 +70,7 @@ span.quote sup.iconbis-evt_quote-right {
     background-color: transparent !important;
 }
 .del[data-rend = "overstrike"] {
-    display: inline;
+    display: inline !important;
     text-decoration: line-through !important;
     background-color: transparent !important;
 }
