@@ -2176,7 +2176,7 @@
                   <rdg ana="#A" type="unique" wit="#Vall" cause="om"><lacunaStart wit="#Vall"
                      /></rdg>
                </app> vero <app>
-                  <lem ana="#π #ς #φ #ρ">conservatioque</lem>
+                  <lem ana="#π #ς #φ #ρ" exclude="#Vall">conservatioque</lem>
                   <rdg ana="#O" type="draft" wit="#Ric15 #Ric16">conservatioque</rdg>
                   <rdg ana="#A" type="draft"
                      wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vrat"
@@ -5671,7 +5671,7 @@
                   <lem ana="#π #ς #φ #ρ">sicut et</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
-                     >plane et perinte atque</rdg>
+                     >plane et perinde atque</rdg>
                </app>
                <app>
                   <lem ana="#φ">magno in corpore pulchritudo</lem>
@@ -5757,7 +5757,7 @@
                      existimat</rdg>
                </app>
                <app>
-                  <lem ana="#φ">Et potissimum is videbitur</lem>
+                  <lem ana="#φ" wit="#V #D #E">Et potissimum is videbitur</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Holk #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >Atque maxime is parvi animi videbitur esse</rdg>
@@ -11475,11 +11475,6 @@
                   <title>Deipnosophistae</title>
                   <biblScope>XIV, 656 C</biblScope>
                </bibl>              
-               <bibl xml:id="Od">
-                  <author>Homerus</author>
-                  <title>Odyssea</title>
-                  <biblScope>XVII, 420</biblScope>
-               </bibl>
                <bibl xml:id="Ecl">
                   <author>Stobaeus</author>
                   <title>Eclogae physicae et ethicae</title>
@@ -11502,6 +11497,11 @@
                   <author>Homerus</author>
                   <title>Ilias</title>
                   <biblScope>I, 394-407; 503-504</biblScope>
+               </bibl>
+               <bibl xml:id="Od">
+                  <author>Homerus</author>
+                  <title>Odyssea</title>
+                  <biblScope>XVII, 420</biblScope>
                </bibl>
             </listBibl>
          </p>
