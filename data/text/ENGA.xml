@@ -2176,10 +2176,14 @@
                   <rdg ana="#A" type="unique" wit="#Vall" cause="om"><lacunaStart wit="#Vall"
                      /></rdg>
                </app> vero <app>
-                  <lem ana="#π #ς #φ #ρ" exclude="#Vall">conservatioque</lem>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 
+                     #f #t #m #p #g 
+                     #Amstel #r #v
+                     #V #D #E
+                     ">conservatioque</lem>
                   <rdg ana="#O" type="draft" wit="#Ric15 #Ric16">conservatioque</rdg>
                   <rdg ana="#A" type="draft"
-                     wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vrat"
+                     wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vrat" exclude="#Vall"
                      >pecunias conservareque</rdg>
                   <rdg ana="#O" type="unique" wit="#C">consumatioque</rdg>
                   <rdg ana="#A" type="joining" wit="#Ch2 #Ox2">pecunias conservare</rdg>
