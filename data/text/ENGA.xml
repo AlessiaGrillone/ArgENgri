@@ -2183,8 +2183,8 @@
                      ">conservatioque</lem>
                   <rdg ana="#O" type="draft" wit="#Ric15 #Ric16">conservatioque</rdg>
                   <rdg ana="#A" type="draft"
-                     wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vrat" exclude="#Vall"
-                     >pecunias conservareque</rdg>
+                     wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vrat"
+                     exclude="#Vall">pecunias conservareque</rdg><note resp="#AG">in lac. Vall</note>
                   <rdg ana="#O" type="unique" wit="#C">consumatioque</rdg>
                   <rdg ana="#A" type="joining" wit="#Ch2 #Ox2">pecunias conservare</rdg>
                </app>
@@ -2196,7 +2196,7 @@
                   <rdg ana="#O" type="unique" wit="#Ric16">ad earum videtur magis pertinere
                      possessionem</rdg>
                   <rdg ana="#A" type="unique" wit="#Vall"><lacunaEnd wit="#Vall"/></rdg>
-                 <rdg ana="#A" type="unique" wit="#Vall">pertinere possessionem</rdg>
+                  <rdg ana="#A" type="unique" wit="#Vall">pertinere possessionem</rdg>
                </app> . Quocirca <app>
                   <lem ana="#O #A #π #ς #φ #ρ">viri</lem>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">et viri</rdg>
@@ -2211,11 +2211,19 @@
                   <rdg ana="#φ" type="unique" wit="#D" cause="om"><lacunaStart wit="#D"/></rdg>
                </app>
                <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">et non capere unde non oportet</lem>
+                  <lem ana="#O #A #π #ς #φ #ρ"
+                     wit="#C #Ric15 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
+                     #S #Ox1 
+                     #f #t #m #p #g 
+                     #Amstel #r #v
+                     #V #E" exclude="#D">et non capere unde non oportet</lem><note resp="#AG">in lac. D</note>
                   <rdg ana="#O" type="unique" cause="om" wit="#Ric16"/>
                </app>.</p>
             <p corresp="#ENGR_p_IV-I-1-04" xml:id="ENGA_p_IV-I-1-04"><app>
-                  <lem ana="#π #ς #φ #ρ">Est enim ipsius virtutis</lem>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 
+                  #f #t #m #p #g 
+                  #Amstel #r #v
+                  #V #E" exclude="#D">Est enim ipsius virtutis</lem><note resp="#AG">in lac. D</note>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >virtutis officium</rdg>
@@ -2243,15 +2251,25 @@
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >colloces</rdg>
                </app> honestaque agas, <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">cum</lem>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 
+                     #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
+                     #S #Ox1 
+                     #f #t #m #p #g 
+                     #Amstel #r #v
+                     #V #D #E">cum</lem>
                   <rdg ana="#A" type="unique" wit="#Vat" cause="om"><lacunaStart wit="#Vat"/></rdg>
                </app> capis <app>
-                  <lem ana="#φ">autem</lem>
+                  <lem ana="#φ" wit="#V #D #E">autem</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
-                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
-                     >vero</rdg>
+                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v" exclude="#Vat"
+                     >vero</rdg><note resp="#AG">in lac. Vat</note>
                </app> ut <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">suscipias</lem>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 
+                     #Ch1 #Ott #Urb1 #Urb2 #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
+                     #S #Ox1 
+                     #f #t #m #p #g 
+                     #Amstel #r #v
+                     #V #D #E" exclude="#Vat">suscipias</lem><note resp="#AG">in lac. Vat</note>
                   <rdg ana="#A" type="unique" wit="#Ch2">suscipiat</rdg>
                </app> aut non turpia <app>
                   <lem ana="#O #A #π #ς #φ #ρ">agas</lem>
@@ -5782,7 +5800,7 @@
                   <rdg ana="#A" type="var_auct" wit="#Ch1 #Urb1 #Plut3 #Ric23 #Vall #Vrat">cum magna
                      mereatur se ipsum dignum esse minoribus arbitratur</rdg>
                   <rdg ana="#A" type="unique" wit="#Ott"><lacunaEnd wit="#Ott"/></rdg>
-                 <rdg ana="#A" type="unique" wit="#Ott">se ipsum tamen dignum esse minoribus
+                  <rdg ana="#A" type="unique" wit="#Ott">se ipsum tamen dignum esse minoribus
                      arbitratur</rdg>
                   <rdg ana="#A" type="unique" wit="#Faes">cum magna mereatur se ipsum se ipsum
                      dignum esse minoribus arbitratur</rdg>
@@ -6840,7 +6858,7 @@
                </app>
                <app>
                   <lem ana="#A #π #ς #φ #ρ"><seg source="#FGrH">nec Atheniensibus
-                        Lacedaemonii</seg><!-- <ref type="parallel"
+                     Lacedaemonii</seg><!-- <ref type="parallel"
                         target="#FGrH">Jacoby FGrH, II, B, frr. 15-17.</ref> --></lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">neque Lacaedemonii memorant
                      Atheniensibus ea</rdg>
@@ -10252,7 +10270,7 @@
                      >in hisce quae risum movent</rdg>
                   <rdg ana="#O" type="unique" wit="#Ric16">in hisce quae movent risum</rdg>
                   <rdg ana="#A" type="unique" wit="#Ch1"><lacunaEnd wit="#Ch1"/></rdg>
-                 <rdg ana="#A" type="unique" wit="#Ch1">movent</rdg>
+                  <rdg ana="#A" type="unique" wit="#Ch1">movent</rdg>
                   <rdg ana="#A" type="corr" wit="#Ch1" hand="scribeX"><add place="margin"
                         >defectionemve qui igitur in hisce quae risum</add></rdg>
                </app> exsuperant scurrae <app>
@@ -11478,7 +11496,7 @@
                   <author>Athenaeus</author>
                   <title>Deipnosophistae</title>
                   <biblScope>XIV, 656 C</biblScope>
-               </bibl>              
+               </bibl>
                <bibl xml:id="Ecl">
                   <author>Stobaeus</author>
                   <title>Eclogae physicae et ethicae</title>
