@@ -8353,7 +8353,7 @@
                      </subst></rdg>
                </app> in tempore quam <app>
                   <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r">oportet</lem>
-                  <rdg ana="#A" type="unique" wit="#Ch2"><lacunaEnd wit="#Ch2"/></rdg>
+                  <rdg ana="#A" type="unique" wit="#Ch2" cause="om"/>
                   <rdg ana="#A" type="unique" wit="#Plut3">oportent</rdg>
                   <rdg ana="#ρ" type="unique" wit="#v">oporte</rdg>
                </app>  ̶ , non tamen universa eidem insunt, quippe cum <app>
