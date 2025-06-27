@@ -8339,7 +8339,7 @@
                   <lem ana="#O #A #π #ς #φ #ρ">et</lem>
                   <rdg ana="#A" type="unique" wit="#Ch2" cause="om"/>
                </app> magis <app>
-                  <lem ana="#A #π #ς #φ #ρ">et velocius</lem>
+                  <lem ana="#A #π #ς #φ #ρ" wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #p #g #V #D #E #Amstel #r #v">et velocius</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">et citius</rdg>
                   <rdg ana="#A" type="unique" wit="#Ch2" cause="om"><lacunaStart wit="#Ch2"/></rdg>
                   <rdg ana="#ς" type="unique" wit="#m">et et velocius</rdg>
@@ -8353,7 +8353,7 @@
                      </subst></rdg>
                </app> in tempore quam <app>
                   <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r">oportet</lem>
-                  <rdg ana="#A" type="unique" wit="#Ch2" cause="om"/>
+                  <rdg ana="#A" type="unique" wit="#Ch2" cause="om"><lacunaEnd wit="#Ch2"/></rdg>
                   <rdg ana="#A" type="unique" wit="#Plut3">oportent</rdg>
                   <rdg ana="#ρ" type="unique" wit="#v">oporte</rdg>
                </app>  ̶ , non tamen universa eidem insunt, quippe cum <app>
@@ -8719,7 +8719,7 @@
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >appellamus viriles</rdg>
                </app>. <app>
-                  <lem ana="#ς #φ #ρ">Facile igitur</lem>
+                  <lem ana="#ς #φ #ρ" wit="#f #t #m #p #g #V #E #Amstel #r #v">Facile igitur</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >sed facile</rdg>
@@ -8759,7 +8759,7 @@
                      >egressus</rdg>
                </app>
                <app>
-                  <lem ana="#π #ς #φ #ρ">vituperandus est</lem>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #E #Amstel #r #v">vituperandus est</lem>
                   <rdg ana="#O" type="draft" wit="#Ric15 #Ric16">carpendus ob id ipsum
                      vituperandusque sit</rdg>
                   <rdg ana="#O" type="var_auct" wit="#C">carpendus est ob id ipsum vituperandusque
@@ -10157,7 +10157,7 @@
                   <rdg ana="#O #A #π" type="draft"
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"/>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"><add place="above"
-                     >id</add></rdg><note resp="#AG">id s. l. add. manus incerta Ric15</note>
+                     >id</add></rdg>
                </app> lucri causa <app>
                   <lem ana="#ς #φ #ρ">facere videntur</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">faciunt</rdg>
@@ -10386,7 +10386,7 @@
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">esse nimium</rdg>
                </app>
                <app>
-                  <lem ana="#π #ς #φ">et defectionem</lem>
+                  <lem ana="#π #ς #φ" wit="#S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v">et defectionem</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >defectionemve</rdg>
@@ -10394,7 +10394,7 @@
                   <rdg ana="#O" type="unique" wit="#Ric16">defectionem</rdg>
                   <rdg ana="#A" type="unique" wit="#Ch1" cause="om"><lacunaStart wit="#Ch1"/></rdg>
                </app>. Qui igitur <app>
-                  <lem ana="#π #ς #φ #ρ">in ridiculis</lem>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v">in ridiculis</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >in hisce quae risum movent</rdg>
@@ -11196,14 +11196,12 @@
                   <lem ana="#O #A #π #ς #φ">esse videtur</lem>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">est</rdg>
                </app>, <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">quod</lem>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v">quod</lem>
                   <rdg ana="#A" type="polygenetic" wit="#Ch1 #Ch2 #Ox2" cause="om"><lacunaStart
                         wit="#Ch1 #Ch2 #Ox2"/></rdg>
                </app>
                <app>
-                  <lem ana="#O #A #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vall #Vrat #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ch1 #Ch2 #Ox2">quidem</lem><note resp="#AG">in lac. Ch1 Ch2 Ox2</note>
+                  <lem ana="#O #A #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vall #Vrat #f #t #m #p #g  #V #D #E #Amstel #r #v" exclude="#Ch1 #Ch2 #Ox2">quidem</lem><note resp="#AG">in lac. Ch1 Ch2 Ox2</note>
                   <rdg ana="#π" type="draft" wit="#S #Ox1"/>
                </app>
                <app>
@@ -11225,14 +11223,11 @@
                   <rdg ana="#ς" type="unique" wit="#p">ad effectum</rdg>
                </app>
                <app>
-                  <lem ana="#φ #ς #ρ" exclude="#Ch1 #Ch2 #Ox2">videtur</lem><note resp="#AG">in lac. Ch1 Ch2 Ox2</note>
+                  <lem ana="#ς #φ #ρ" wit="S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ch1 #Ch2 #Ox2">videtur</lem><note resp="#AG">in lac. Ch1 Ch2 Ox2</note>
                   <rdg ana="#O #A #π" type="draft"
-                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"
-                  />
+                     wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"/>
                </app> quam <app>
-                  <lem ana="#O #A #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vall #Vrat #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ch1 #Ch2 #Ox2">ad habitum</lem><note resp="#AG">in lac. Ch1 Ch2 Ox2</note>
+                  <lem ana="#O #A #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Par1 #Par2 #Vall #Vrat #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ch1 #Ch2 #Ox2">ad habitum</lem><note resp="#AG">in lac. Ch1 Ch2 Ox2</note>
                   <rdg ana="#π" type="draft" wit="#S #Ox1">habitus</rdg>
                </app>
                <app>
@@ -11306,7 +11301,7 @@
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">eos quidem</rdg>
                </app>
                <app>
-                  <lem ana="#φ">adoloscentes</lem>
+                  <lem ana="#φ">adolescentes</lem>
                   <rdg ana="#O #A #π #ς" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g"
                      >iuvenum</rdg>
@@ -11314,7 +11309,7 @@
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">eos</lem>
-                  <rdg ana="#A" type="joining" wit="#Plut84 #Plut89" cause="transposition"/>
+                  <rdg ana="#A" type="joining" wit="#Plut84 #Plut89" cause="transposition"/><note resp="#AG">"eos" ante "quidem" leguntur Plut84 Plut89</note>
                </app> qui sunt verecundi, sed <app>
                   <lem ana="#φ">ex eo nemo</lem>
                   <rdg ana="#O #A" type="draft"
@@ -11373,48 +11368,34 @@
                   <lem ana="#O #A #π #ς #φ #ρ">res</lem>
                   <rdg ana="#A" type="unique" wit="#Plut3" cause="om"/>
                </app> tales agendae; <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">quod</lem>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v">quod</lem>
                   <rdg ana="#A" type="unique" wit="#Plut3" cause="om"><lacunaStart wit="#Plut3"
                      /></rdg>
                   <rdg ana="#A" type="unique" wit="#Holk">qui</rdg>
                </app> si quaedam re vera, quaedam <app>
                   <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 
-                     #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Plut3">opinatione</lem><note resp="#AG">in lac. Plut3</note>
+                     #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Plut3">opinatione</lem><note resp="#AG">in lac. Plut3</note>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">opinione</rdg>
                   <rdg ana="#ς" type="unique" wit="#f">opinationes</rdg>
                </app> sunt turpes, nihil <app>
-                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Plut3">refert</lem><note resp="#AG">in lac. Plut3</note>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Plut3">refert</lem><note resp="#AG">in lac. Plut3</note>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall"
                      >interesse videtur</rdg>
                   <rdg ana="#A" type="unique" wit="#Vrat">interesse videntur</rdg>
                </app>: <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 
-                     #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #E" exclude="#Plut3">neutrae</lem><note resp="#AG">in lac. Plut3</note>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #E #Amstel #r #v" exclude="#Plut3">neutrae</lem><note resp="#AG">in lac. Plut3</note>
                   <rdg ana="#φ" type="unique" wit="#D">neutra</rdg>
                </app>
                <app>
-                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Plut3">namque</lem><note resp="#AG">in lac. Plut3</note>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Plut3">namque</lem><note resp="#AG">in lac. Plut3</note>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >namque res</rdg>
                   <rdg ana="#A" type="unique" wit="#Ott">neque res</rdg>
                </app> sunt <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">agendae</lem>
-                  <rdg ana="#A" type="unique" wit="#Plut3"><lacunaEnd wit="#Plut3"/></rdg>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v">agendae</lem>
+                  <rdg ana="#A" type="unique" wit="#Plut3" cause="om"><lacunaEnd wit="#Plut3"/></rdg>
                </app>; <app>
                   <lem ana="#A #π #ς #φ">quare non est verecundandum</lem>
                   <rdg ana="#O" type="draft" wit="#C">quocirca nec affici verecundia oportet</rdg>
@@ -11541,7 +11522,7 @@
                </app> et <app>
                   <lem ana="#O #A #π #ς #φ #ρ">quempiam</lem>
                   <rdg ana="#O" type="var_auct" wit="#Ric16">se quempiam</rdg>
-                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"><!-- <del>se</del> --> quempiam</rdg><note resp="#AG">se del. manus incerta Ric15</note>
+                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"><del>se</del> quempiam</rdg>
                </app> non pudere res turpes agentem <app>
                   <lem ana="#π #ς #φ #ρ">improbum est</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">improba res quaedam existit</rdg>
