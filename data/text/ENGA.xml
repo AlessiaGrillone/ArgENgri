@@ -3768,8 +3768,8 @@
                </app> quandam turpiumque rerum cautionem - videntur enim nonnulli, <app>
                   <lem ana="#O #A #π #ς #φ #ρ">vel saltem</lem>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">vel saltem</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> aiunt, ob eam rem <app>
                   <lem ana="#O #A #π #ς #φ #ρ">sua</lem>
                   <rdg ana="#A" type="unique" wit="#Ric23">suam</rdg>
@@ -3815,8 +3815,8 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >tenuis homo</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">ipse cumini sector</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> et quivis <app>
                   <lem ana="#π #ς #φ #ρ">talis</lem>
                   <rdg ana="#O #A" type="draft"
@@ -3901,8 +3901,8 @@
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >hominum ii</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">hominum hi</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> qui operationes illiberales exercent, <app>
                   <lem ana="#O #π #ς #φ #ρ">ut</lem>
                   <rdg ana="#A" type="joining"
@@ -4741,8 +4741,8 @@
                   <rdg ana="#π #ς #φ #ρ" type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      >aliquo in loco</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">aliquo in loco</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Mon" cause="om"/>
                </app>
                <app>
@@ -4756,8 +4756,8 @@
                      >oportere putant splendide ludos facere vel</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">ludos splendide facere
                      oportere putant aut</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">praefecturas</lem>
@@ -4885,8 +4885,9 @@
                      >et qui enititur est sine controversia fatuus</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">qui vero aggreditur est sine
                      controversia stolidus</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"est sine controversia" legitur prima
-                        manus Ric15</foreign></note>
+                   <note resp="#AG">
+                 "est sine controversia" legitur prima
+                        manus Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Ott">et qui enitur est sine controversia
                      fatuus</rdg>
                   <rdg ana="#ς" type="unique" wit="#f">qui vero aggreditur satuus est</rdg>
@@ -4896,8 +4897,8 @@
                      wit="#C #Ric16 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >decet</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">oportet</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Ch1"><add place="above">non</add> decet</rdg>
                </app>, <app>
                   <lem ana="#A #π #ς #φ #ρ">id vero</lem>
@@ -4911,8 +4912,8 @@
                      " type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      >emergit</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">emergit</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>. Decent <app>
                   <lem ana="#A #π #ς #φ #ρ">autem</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">item</rdg>
@@ -5166,8 +5167,8 @@
                      >decentes exstruere atque accommodatas divitiis aedes</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">domum a se extructam ut
                      divitias decet habere</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="Ott">decentes exstruere atque accommodatas
                      divitiis edest</rdg>
                   <rdg ana="#A" type="unique" wit="#Ch2" cert="low">decentes exstruere atque
@@ -5302,8 +5303,8 @@
                   <lem ana="#A #π #ς #φ #ρ">illiberale</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">tenue</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">illiberale</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Ch2">illiberabile</rdg>
                </app>. Quapropter <app>
                   <lem ana="#φ">magnifici munus atque officium est</lem>
@@ -5496,8 +5497,8 @@
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">quam minimos</lem>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">quam minimos</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Ch2">qui minimos</rdg>
                   <rdg ana="#φ" type="unique" wit="#D">minimos</rdg>
                </app>
@@ -5621,8 +5622,8 @@
                      wit="#Ch1 #Urb1 #Faes #Plut3 #Plut84 #Plut89 #Ric23 #Mon #Vall #Vrat">cum sit
                      dignus</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">magnis est dignus</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> et dignum sese <app>
                   <lem ana="#O #A #π #ς #φ">magnis</lem>
                   <rdg ana="#A" type="joining" wit="#Urb1 #Ric23">magis</rdg>
@@ -7553,8 +7554,8 @@
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >acuti</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"nonnulli libri habent acuti nonnulli
-                        segnes" in marg. add. Ric16; fort. "morosi" s. l. add. Vall</foreign></note>
+                   <note resp="#AG">"nonnulli libri habent acuti nonnulli
+                        segnes" in marg. add. Ric16; fort. "morosi" s. l. add. Vall</note>
                   <rdg ana="#π #ς #ρ" type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v"
                      >pigri</rdg>
                   <rdg ana="#φ" type="var_auct" wit="#E">pigri</rdg>
@@ -7996,8 +7997,8 @@
                      >quod si ad utramque conferatur utraque</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">quod si ad utrumque
                      conferatur utrumque</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"quod si utr#mque conferatur #que"
-                        legitur prima manus Ric15</foreign></note>
+                  <note resp="#AG">"quod si utr#mque conferatur #que"
+                        legitur prima manus Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Ch2">quod si utramque conferatur utraque</rdg>
                </app>
                <app>
@@ -8013,8 +8014,8 @@
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >ad alias</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">in ceteris</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#φ">virtutibus esse constat</lem>
@@ -8026,8 +8027,8 @@
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">esse virtutibus constat</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">videtur esse
                      virtutibus</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>. <app>
                   <lem ana="#O #A #π #ς #φ #ρ">Extremi</lem>
                   <rdg ana="#A" type="corr" wit="#Faes" hand="scribe1">extrem<subst>
@@ -8108,8 +8109,8 @@
                      >affectus enim</rdg>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">et enim affectus</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">et enim affectus</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#ς" type="joining" wit="#t #m #p #g">et enim affectus</rdg>
                   <note resp="#AG">Modifica probabilmente effettuata da Gilles de Delft</note>
                </app>
@@ -8118,8 +8119,8 @@
                   <rdg ana="#O #A #π" type="draft"
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"/>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">quidem</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#ρ" type="joining" wit="#Amstel #r #v">quidam</rdg>
                </app> est ira, ea vero quae ipsam <app>
                   <lem ana="#O #A #π #ς #φ #ρ">efficiunt</lem>
@@ -8166,8 +8167,8 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >a perturbatione</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">ab affectu</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Holk">a perturbationem</rdg>
                   <rdg ana="#φ" type="unique" wit="#D">ob affectu</rdg>
                </app>
@@ -8184,8 +8185,8 @@
                      >irasci</rdg>
                   <rdg ana="#O" type="var_auct" wit="#Ric16">se ipsum infensum esse</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">irasci solet</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Plut3" cause="om"/>
                </app>
                <app>
@@ -8278,12 +8279,8 @@
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">sunt</rdg>
                   <rdg ana="#A" type="unique" wit="#Vrat">videntur</rdg>
                </app>: <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">nam</lem>
-                  <rdg ana="#A" type="unique" wit="#Plut3" cause="om"><lacunaStart wit="#Plut3"
-                     /></rdg>
-               </app> neque sentire neque dolere <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">videntur</lem>
-                  <rdg ana="#A" type="unique" wit="#Plut3"><lacunaEnd wit="#Plut3"/></rdg>
+                  <lem ana="#O #A #π #ς #φ #ρ">nam neque sentire neque dolere videntur</lem>
+                  <rdg ana="#A" type="unique" wit="#Plut3" cause="om"/>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">atque qui</lem>
@@ -8305,8 +8302,8 @@
                   <lem ana="#A #π #ς #φ #ρ">perferre autem</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">perferre praeterea</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">preferre autem</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Ch2">preferre autem</rdg>
                </app> contumelias et suos negligere servile <app>
                   <lem ana="#π #ς #φ #ρ">est sane</lem>
@@ -8325,10 +8322,10 @@
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >per haec quidem omnia</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">per omnia quidem</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Mon">per haec omnia</rdg>
-               </app> fit ̶ nam fit <app>
+               </app> fit  ̶  nam fit <app>
                   <lem ana="#O #A #π #ς #φ #ρ">et</lem>
                   <rdg ana="#ς" type="unique" wit="#p" cause="om"/>
                </app>
@@ -8347,27 +8344,24 @@
                   <rdg ana="#A" type="unique" wit="#Ch2" cause="om"><lacunaStart wit="#Ch2"/></rdg>
                   <rdg ana="#ς" type="unique" wit="#m">et et velocius</rdg>
                </app> et <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#Ric15 #Ric16 #Ch1 #Ott #Urb1 #Urb2 #Vat #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ch2">maiore</lem><note resp="#AG">in lac. Ch2</note>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#Ric15 #Ric16 #Ch1 #Ott #Urb1 #Urb2 #Vat #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v #V #D #E"
+                      exclude="#Ch2">maiore</lem><note resp="#AG">in lac. Ch2</note>
                   <rdg ana="#O" type="unique" wit="#C">maiori</rdg>
                   <rdg ana="#A" type="corr" wit="#Faes" hand="scribe1">maior<subst>
                         <del>e</del>
                         <add place="above">i</add>
                      </subst></rdg>
                </app> in tempore quam <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">oportet</lem>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r">oportet</lem>
                   <rdg ana="#A" type="unique" wit="#Ch2"><lacunaEnd wit="#Ch2"/></rdg>
                   <rdg ana="#A" type="unique" wit="#Plut3">oportent</rdg>
                   <rdg ana="#ρ" type="unique" wit="#v">oporte</rdg>
-               </app> ̶ , non tamen universa eidem insunt, quippe cum <app>
+               </app>  ̶ , non tamen universa eidem insunt, quippe cum <app>
                   <lem ana="#A #π #ς #φ #ρ">esse non possit</lem>
                   <rdg ana="#O" type="draft" cert="unknown" wit="#C #Ric16">non possit esse</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">esse non possit</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>: malum enim et <app>
                   <lem ana="#O #A #π #ς #φ #ρ">se</lem>
                   <rdg ana="#A" type="unique" wit="#Plut3" cause="om"/>
@@ -8381,8 +8375,7 @@
                </app> sit <app>
                   <lem ana="#A #π #ς #φ #ρ">intollerabile fit</lem>
                   <rdg ana="#O" type="draft" wit="#C">ipsum intollerabile est</rdg>
-                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"><del>ipsum</del>
-                     intollerabile fit</rdg>
+                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"><del>ipsum</del>  intollerabile fit</rdg>
                   <rdg ana="#O" type="unique" wit="#Ric16">intollerabile est</rdg>
                </app>. Iracundi igitur cito quidem irascuntur et quibus non oportet <app>
                   <lem ana="#O #A #π #ς #φ #ρ">et pro quibus non oportet</lem>
@@ -8392,8 +8385,8 @@
                   <lem ana="#A #π #ς #φ #ρ">detinent</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">comprimunt</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">detinent</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">tantum "-munt" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">tantum "-munt" legitur prima manus
+                        Ric15</note>
                   <rdg ana="#ς" type="unique" wit="#f">detinet</rdg>
                </app> iram, sed <app>
                   <lem ana="#π #ς #φ #ρ">reddunt</lem>
@@ -8411,8 +8404,8 @@
                   <rdg ana="#π" type="draft" wit="#S #Ox1">qua</rdg>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">idcirco et</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">quo quidem pacto et</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> manifesti sunt ob <app>
                   <lem ana="#π #ς #φ #ρ">celeritatem</lem>
                   <rdg ana="#O #A" type="draft"
@@ -8432,8 +8425,8 @@
                      >ii vero qui exardescere summa bili dicuntur excandescunt summe</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">exuperatione autem sunt
                      celeres</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                  <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Vall">ii vero qui excandescere summa bili
                      dicuntur excandescunt summe</rdg>
                </app> et <app>
@@ -8441,8 +8434,8 @@
                   <rdg ana="#ς #ρ" type="draft" cert="unknown" wit="#f #t #m #p #g #Amstel #r #v">ad
                      quidvis</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">ad quidvis</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                  <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Ott">ad id quodvis</rdg>
                   <rdg ana="#A" type="unique" wit="#Plut84">a quovis</rdg>
                </app> et pro quovis <app>
@@ -8454,8 +8447,8 @@
                   <rdg ana="#π" type="draft" wit="#S #Ox1">iracundi qui summae sunt bilis</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">iracundi qui summae sunt
                      bilis homines nuncupantur</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">tantum "nuncupantur" legitur prima
-                        manus Ric15</foreign></note>
+                  <note resp="#AG">tantum "nuncupantur" legitur prima
+                        manus Ric15</note>
                </app>. <app>
                   <lem ana="#π #ς #φ #ρ">Amari autem</lem>
                   <rdg ana="#O #A" type="draft"
@@ -8483,7 +8476,7 @@
                   <rdg ana="#A" type="draft"
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >id</rdg>
-                  <rdg ana="#A" type="unique" wit="#Plut3" cause="transposition"/>
+                  <rdg ana="#A" type="unique" wit="#Plut3" cause="transposition"/><note resp="#AG">"id" ante "fiat" legitur Plut3</note>
                </app> non <app>
                   <lem ana="#O #A #π #ς #φ #ρ">fiat</lem>
                   <rdg ana="#A" type="unique" wit="#Plut3">id fiat</rdg>
@@ -8530,7 +8523,7 @@
                   <lem ana="#π #ς #φ #ρ">tempore opus est</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
-                     >opus est ̶ ut patet ̶ tempore longo</rdg>
+                     >opus est  ̶  ut patet  ̶  tempore longo</rdg>
                </app>. Sunt autem tales homines et sibi ipsis et amicissimis permolesti. <app>
                   <lem ana="#π #ς #φ #ρ">Infensos</lem>
                   <rdg ana="#O #A" type="draft"
@@ -8552,8 +8545,8 @@
                      >longius irascuntur tempus</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">longiore tempore
                      irascuntur</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                  <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#O" type="unique" wit="#Ric16">longiore tempore sunt infessi</rdg>
                   <rdg ana="#A" type="unique" wit="#Ch2">longius irascuntur</rdg>
                </app>, si neque <app>
@@ -8563,8 +8556,8 @@
                      >poena vel supplicio</rdg>
                   <rdg ana="#π" type="draft" wit="#S #Ox1">poena</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">ultione vel poena</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                  <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">poena supplicioque</rdg>
                </app> non <app>
                   <lem ana="#π #ς #φ #ρ">reconciliantur</lem>
@@ -8572,8 +8565,8 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >placantur</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">reconciliantur</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                  <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>.</p>
             <p><app>
                   <lem ana="#π #ς #φ #ρ">Mansuetudini autem</lem>
@@ -8639,7 +8632,7 @@
                   <rdg ana="#A" type="var_auct" wit="#Ch1 #Faes #Vall #Vrat">id adiungendum esse
                      videtur quod non facile</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"><del>id adiungendum esse
-                        videtur quod</del> non est facile</rdg>
+                     videtur quod</del> non est facile</rdg>
                </app>
                <app>
                   <lem ana="#φ">definire</lem>
@@ -8658,8 +8651,8 @@
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"
                      >quo modo</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">quonam modo</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                  <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> et quibus <app>
                   <lem ana="#O #A #π #ς #φ #ρ">et pro quibus</lem>
                   <rdg ana="#A" type="unique" wit="#Vat" cause="om"/>
@@ -8670,8 +8663,8 @@
                   <lem ana="#A #π #ς #φ #ρ">quousque iratus</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">quoad</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">quousque iratus</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                  <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> recte faciat quis aut <app>
                   <lem ana="#π #ς #φ #ρ">peccet</lem>
                   <rdg ana="#O #A" type="draft"
@@ -8732,15 +8725,15 @@
                      >sed facile</rdg>
                   <rdg ana="#π" type="draft" wit="#S #Ox1">facile autem</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">facile igitur</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                  <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#φ" type="unique" wit="#D" cause="om"><lacunaStart wit="#D"/></rdg>
                </app> non est <app>
                   <lem ana="#A #π #ς #φ #ρ">assignare</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">excipere</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">assignare</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                  <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 
@@ -8771,7 +8764,7 @@
                      vituperandusque sit</rdg>
                   <rdg ana="#O" type="var_auct" wit="#C">carpendus est ob id ipsum vituperandusque
                      sit</rdg>
-                  <note resp="#AG">Ritengo che la elzione sia frutto di un fraintendimento di una
+                  <note resp="#AG">Ritengo che la lezione sia frutto di un fraintendimento di una
                      correzione d'autore</note>
                   <rdg ana="#A" type="draft"
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Faes #Ric23 #Holk #Mon #Ox2 #Vrat">est ob id
@@ -8858,7 +8851,7 @@
                </app> ac <app>
                   <lem ana="#O #A #π #ς #φ #ρ">amplectendum</lem>
                   <rdg ana="#A" type="unique" wit="#Ch2">amplectuntur</rdg>
-                  <rdg ana="#A" type="unique" wit="#Holk">amplectandum</rdg>
+                  <rdg ana="#A" type="unique" wit="#Holk">amplectandum</rdg><!-- oppure type polygenetic? -->
                   <rdg ana="#ς" type="joining" wit="#t #m #p">amplectandum</rdg>
                </app>, sed de habitibus <app>
                   <lem ana="#φ">quidem ad ipsam iram accommodatis</lem>
@@ -8876,23 +8869,23 @@
                   <lem ana="#π #ς #φ">congressionibus autem et convictu</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
-                     >in convictu autem</rdg>
+                     >convictu autem</rdg>
                   <rdg ana="#O" type="var_auct" wit="#Ric15 #Ric16">conversationibus autem
                      convictuque</rdg>
-                  <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">in congressionibus et
+                  <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">congressionibus et
                      convictu</rdg>
                </app> et <app>
                   <lem ana="#A #π #ς #φ #ρ">usu</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">in usu</rdg>
-                  <rdg ana="#A" type="unique" wit="#Vall">in usu</rdg>
+                  <rdg ana="#A" type="unique" wit="#Vall">in usu</rdg><note resp="#AG">L'ipotesi più economica è considerare la lezione di Vall come un errore di pressione contestuale e non come una traccia della redazione precedente</note>
                </app> communi verborum <app>
                   <lem ana="#π #ς #φ #ρ">ac</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >ac etiam</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">et</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> rerum quidam <app>
                   <lem ana="#φ">esse placidi</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">assentatores esse</rdg>
@@ -8902,8 +8895,8 @@
                   <rdg ana="#ς" type="draft" wit="#f #t #m #p #g">placidi esse</rdg>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">placidi sunt</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">placidi esse</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ">videntur</lem>
@@ -8913,8 +8906,8 @@
                   <rdg ana="#O" type="draft" wit="#C #Ric16">placendi studio</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">pro voluptate
                      afferenda</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> laudant omnia et nihil <app>
                   <lem ana="#O #A #π #ς #φ #ρ">adversantur</lem>
                   <rdg ana="#A" type="unique" wit="#Ric23">adversum</rdg>
@@ -8960,6 +8953,7 @@
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">quidem</lem>
+                  <rdg ana="#A" type="unique" wit="#Holk" cause="om"/>
                   <rdg ana="#A" type="corr" wit="#Holk" hand="scribeX"><add place="margin"
                         >quidem</add></rdg>
                </app> duos habitus <app>
@@ -8994,8 +8988,8 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >reprobabit ac adversabitur</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">aegre feret</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"ac adversabitur" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">"ac adversabitur" legitur prima manus
+                        Ric15</note>
                </app>. Verum ipsi nomen nullum est positum, <app>
                   <lem ana="#φ">est autem amicitiae sane persimilis</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
@@ -9093,8 +9087,8 @@
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >decet</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">oportet</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>.</p>
             <p><app>
                   <lem ana="#π #ς #φ #ρ">Universaliter</lem>
@@ -9104,8 +9098,8 @@
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >summatim</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">universaliter</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> igitur dictum est <app>
                   <lem ana="#π #ς #φ #ρ">ipsum congredi</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">quod conversabitur</rdg>
@@ -9158,8 +9152,8 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >voluptatum</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">voluptatibus</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">tantum "voluptat" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">tantum "voluptat" legitur prima manus
+                        Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Ott" cert="low">voluptatam</rdg>
                </app> non est honestum ipsi vel affert <app>
                   <lem ana="#φ">detrimentum</lem>
@@ -9169,7 +9163,7 @@
                </app> delectare eas moleste <app>
                   <lem ana="#O #A #π #ς #φ #ρ">feret</lem>
                   <rdg ana="#A" type="unique" wit="#Ott" cause="om"/>
-                  <rdg ana="#A" type="unique" wit="#Mon">fert</rdg>
+                  <rdg ana="#A" type="unique" wit="#Mon">fert</rdg><!-- oppure type polygenetic? -->
                   <rdg ana="#φ" type="unique" wit="#E">fert</rdg>
                </app> et eliget dolorem inferre; <app>
                   <lem ana="#O #A #π #ς #φ #ρ">etsi</lem>
@@ -9189,8 +9183,8 @@
                   <lem ana="#O #A #π #ς #φ #ρ">oppositio</lem>
                   <rdg ana="#O" type="var_auct" wit="#Ric16">adversatio</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">oppositio</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">tantum "tio" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">tantum "tio" legitur prima manus
+                        Ric15</note>
                </app> vero parvum dolorem, <app>
                   <lem ana="#π #ς #φ #ρ">non probabit</lem>
                   <rdg ana="#O #A" type="draft"
@@ -9210,8 +9204,8 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >vario praeterea</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">diverso autem</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> modo cum <app>
                   <lem ana="#O #A #π #ς #φ #ρ">iis</lem>
                   <rdg ana="#A" type="polygenetic" wit="#Plut89 #Holk">hice</rdg>
@@ -9261,8 +9255,8 @@
                      >expetet</rdg>
                   <rdg ana="#O" type="unique" wit="#C">expetit</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">expetens</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">tantum "expete" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">tantum "expete" legitur prima manus
+                        Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Faes" cause="om"/>
                </app> delectare, <app>
                   <lem ana="#π #ς #φ #ρ">cavens</lem>
@@ -9270,23 +9264,23 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >cavebit</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">cavens</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">tantum "cave" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">tantum "cave" legitur prima manus
+                        Ric15</note>
                </app> autem dolorem afferre <app>
                   <lem ana="#π #ς #φ #ρ">et sequens</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >atque sequetur</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">et sequens</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> ea quae eveniunt si <app>
                   <lem ana="#O #A #π #ς #φ #ρ">sint</lem>
                   <rdg ana="#A" type="unique" wit="#Plut1">sunt</rdg>
-               </app> maiora ̶ honestum, <app>
+               </app> maiora  ̶  honestum, <app>
                   <lem ana="#O #A #π #ς #φ #ρ">inquam</lem>
                   <rdg ana="#A" type="unique" wit="#Vrat">umquam</rdg>
-               </app>, et id quod conducit ̶ , <app>
+               </app>, et id quod conducit  ̶ , <app>
                   <lem ana="#π #ς #φ #ρ">atque voluptatis gratia magnae</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
@@ -9299,13 +9293,13 @@
                   <lem ana="#A #π #ς #φ #ρ">dolorem</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">doloris</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">dolorem</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">tantum "do" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">tantum "do" legitur prima manus
+                        Ric15</note>
                </app>
                <app>
                   <lem ana="#O #A #π #φ">afferet</lem>
                   <rdg ana="#ς #ρ" type="joining" wit="#f #t #m #p #g #Amstel #r #v">affert</rdg>
-                  <rdg ana="#A" type="polygenetic" wit="#Ch2 #Mon #Ox2">affert</rdg>
+                  <rdg ana="#A" type="polygenetic" wit="#Ch2 #Mon #Ox2">affert</rdg><!-- oppure type polygenetic? -->
                   <rdg ana="#A" type="unique" wit="#Plut3">offert</rdg>
                   <rdg ana="#A" type="unique" wit="#Ric23">afferre</rdg>
                </app>
@@ -9313,8 +9307,8 @@
                   <lem ana="#A #π #ς #φ #ρ">parvum</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">parum</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">parvum</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">fort. "parum" prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">fort. "parum" prima manus
+                        Ric15</note>
                </app>.</p>
             <p>Talis est igitur ipse medius, <app>
                   <lem ana="#π #ς #φ #ρ">sed nomen non habet</lem>
@@ -9334,8 +9328,8 @@
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"
                      >placens</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">placidus</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Mon">esse placens</rdg>
                </app> vocatur, sin emolumenti causa sui ut <app>
                   <lem ana="#O #A #π #ς #φ #ρ">inde</lem>
@@ -9359,8 +9353,8 @@
                   <lem ana="#O #A #π #ς #φ #ρ">pecuniis comparantur</lem>
                   <rdg ana="#O" type="var_auct" wit="#Ric16">ad pecunias spectant</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">pecuniis comparantur</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Ott">an pecuniis comparantur</rdg>
                </app>
                <app>
@@ -9403,8 +9397,8 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >atque videntur extrema tantum</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">atque videntur extrema</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#A #π #ς #φ #ρ">inter sese</lem>
@@ -9417,15 +9411,15 @@
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >ex eo suscipere</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">suscipere</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>, quia medium nomine <app>
                   <lem ana="#A #π #ς #φ">caret</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">vacat</rdg>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">vacat</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">caret</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>.</p>
          </div>
          <div type="Veritas" corresp="#ENGR_div_07" xml:id="ENGA_div_07">
@@ -9453,7 +9447,7 @@
                   <rdg ana="#ς" type="unique" wit="#t">is</rdg>
                </app> etiam pertractare: nam et ea magis quae ad <app>
                   <lem ana="#O #A #π #ς #φ #ρ">morem</lem>
-                  <rdg ana="#A" type="unique" wit="#Ox2">mortem</rdg>
+                  <rdg ana="#A" type="unique" wit="#Ox2">mortem</rdg><!-- oppure type polygenetic? -->
                   <rdg ana="#ς" type="unique" wit="#p">mortem</rdg>
                </app> pertinent <app>
                   <lem ana="#O #A #π #ς #φ #ρ">percipiemus,</lem>
@@ -9468,8 +9462,8 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"
                      >transigamus</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">fuerit pertractatum</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>, et <app>
                   <lem ana="#O #A #π #ς #φ #ρ">virtutes</lem>
                   <rdg ana="#A" type="unique" wit="#Vrat">virtute</rdg>
@@ -9557,8 +9551,8 @@
                      unumquodque quale</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">cum sit talis ut quodque
                      quale</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">est</lem>
@@ -9671,12 +9665,12 @@
                   <lem ana="#π #ς #φ #ρ">arrogans magis</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut89 #Ric23 #Holk #Par1 #Par2 #Vall #Vrat"
-                     >sed alter magis ̶ arrogans inquam ipse</rdg>
-                  <rdg ana="#A" type="joining" wit="#Ch2 Ox2">sed aliter magis ̶ arrogans inquam
+                     >sed alter magis  ̶  arrogans inquam ipse</rdg>
+                  <rdg ana="#A" type="joining" wit="#Ch2 Ox2">sed aliter magis  ̶  arrogans inquam
                      ipse</rdg>
-                  <rdg ana="#A" type="unique" wit="#Plut84">sed magis alter ̶ arrogans inquam
+                  <rdg ana="#A" type="unique" wit="#Plut84">sed magis alter  ̶  arrogans inquam
                      ipse</rdg>
-                  <rdg ana="#A" type="unique" wit="#Mon">sed alter magis ̶ arrogans inquam</rdg>
+                  <rdg ana="#A" type="unique" wit="#Mon">sed alter magis  ̶  arrogans inquam</rdg>
                </app>.</p>
             <p> At enim de <app>
                   <lem ana="#O #A #π #ς #φ #ρ">utroque</lem>
@@ -9712,19 +9706,19 @@
                   <rdg ana="#A" type="draft"
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >aliis istiusmodi</rdg>
-                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">in iis</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"in ceteris" legitur prima manus
-                        Ric15</foreign></note>
-                  <rdg ana="#A" type="unique" wit="#Plut3">in his aliis istiusmodi</rdg>
+                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">iis</rdg>
+                   <note resp="#AG">"ceteris" legitur prima manus
+                        Ric15</note>
+                  <rdg ana="#A" type="unique" wit="#Plut3">his aliis istiusmodi</rdg>
                </app> quae <app>
                   <lem ana="#A #π #ς #φ #ρ">ad iustitiam et iniustitiam</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">ad ius et iniuriam</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">ad iustitiam et
                      iniustitiam</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Urb2">ad iustitiam ac iniustitiam</rdg>
-               </app> pertinent ̶ <app>
+               </app> pertinent  ̶  <app>
                   <lem ana="#O #A #π #ς #φ #ρ">haec</lem>
                   <rdg ana="#A" type="unique" wit="#Plut84">nec</rdg>
                </app> enim <app>
@@ -9734,15 +9728,15 @@
                   <rdg ana="#ς" type="unique" wit="#f">ad aliam accomodantur</rdg>
                   <rdg ana="#ς" type="joining" wit="#t #m #p #g">ad aliam accommodantur
                      virtutem</rdg>
-               </app> ̶ , sed de eo qui <app>
+               </app>  ̶ , sed de eo qui <app>
                   <lem ana="#π #ς #φ #ρ">in quibus hoc nihil refert et in verbis et in vita</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >sine rebus istiusmodi tam vita quam verbis</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">in quibus hoc nihil refert
                      et in verbis et vita</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#φ" type="unique" wit="#D">in quibus hoc nihil refert et verbis et in
                      vita</rdg>
                </app>
@@ -9754,8 +9748,8 @@
                   <lem ana="#A #π #ς #φ #ρ">dicit</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">fatetur</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">dicit</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>, <app>
                   <lem ana="#O #A #π #ς #φ #ρ">quia</lem>
                   <rdg ana="#A" type="unique" wit="#Ric23">quid</rdg>
@@ -9786,8 +9780,8 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >homo probus</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">aequus et bonus</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Mon">probus homo</rdg>
                </app> esse <app>
                   <lem ana="#O #A #φ">videtur</lem>
@@ -9921,7 +9915,7 @@
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">nullius quidem</rdg>
                </app> causa rei <app>
                   <lem ana="#O #A #π #ς #φ #ρ">pravo</lem>
-                  <rdg ana="#A" type="unique" wit="#Vrat">parvo</rdg>
+                  <rdg ana="#A" type="unique" wit="#Vrat">parvo</rdg><!-- oppure type polygenetic?? -->
                   <rdg ana="#ρ" type="unique" wit="#Amstel">parvo</rdg>
                </app>
                <app>
@@ -9933,17 +9927,17 @@
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Holk #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >est viro</rdg>
-                  <rdg ana="#O" type="unique" wit="#Ric15">viro est</rdg>
+                  <rdg ana="#O" type="unique" wit="#Ric15">viro est</rdg><!-- oppure type polygenetic?? -->
                   <rdg ana="#A" type="unique" wit="#Ric23">viro est</rdg>
                   <rdg ana="#A" type="unique" wit="#Mon">viro</rdg>
-               </app> similis ̶ non enim <app>
+               </app> similis  ̶  non enim <app>
                   <lem ana="#ς #φ #ρ">mendacio gauderet</lem>
                   <rdg ana="#O #A #π" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"
                      >gauderet mendacio</rdg>
                   <rdg ana="#A" type="polygenetic" wit="#Plut3 #Plut84 #Plut89">gaudet
                      mendacio</rdg>
-               </app> ̶ , vanus <app>
+               </app>  ̶ , vanus <app>
                   <lem ana="#O #A #π #ς #φ #ρ">tamen</lem>
                   <rdg ana="#A" type="joining" wit="#Ch2 #Ox2">autem</rdg>
                </app>
@@ -10002,8 +9996,8 @@
                   <lem ana="#O #A #π #φ">et</lem>
                   <rdg ana="#ς #ρ" type="draft" wit="#f #t #m #p #g #Amstel #r #v"/>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"/>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#φ">quod</lem>
@@ -10043,8 +10037,8 @@
                   <rdg ana="#π #ς #ρ" type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v">sunt
                      arrogantes</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">sunt arrogantes</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#π #ς #φ #ρ">ea simulant</lem>
@@ -10052,29 +10046,29 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >ii talia sibi assumunt</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">ea simulant</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Ott">ii talia sibi assumuntur</rdg>
                </app>
                <app>
                   <lem ana="#A #π #ς #φ #ρ">pro</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">ex</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">pro</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app> quibus homines <app>
                   <lem ana="#A #π #ς #φ #ρ">laudantur</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">laudari solent</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">laudantur</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#A #π #ς #φ #ρ">aut</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">vel</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">aut</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">ac</rdg>
                </app> beati <app>
                   <lem ana="#π #ς #φ #ρ">esse dicuntur</lem>
@@ -10083,8 +10077,8 @@
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >esse videntur</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">esse dicuntur</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>; qui vero gratia <app>
                   <lem ana="#π #ς #φ #ρ">lucri</lem>
                   <rdg ana="#O #A" type="draft"
@@ -10137,8 +10131,8 @@
                      >insunt enim his ut patet ea quae diximus</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">nam sunt in ipsis ea quae
                      dicta sunt</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"rebus insunt" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">"rebus insunt" legitur prima manus
+                        Ric15</note>
                </app>.</p>
             <p><app>
                   <lem ana="#O #A #π #ς #φ #ρ">At</lem>
@@ -10163,7 +10157,7 @@
                   <rdg ana="#O #A #π" type="draft"
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"/>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"><add place="above"
-                     >id</add></rdg>
+                     >id</add></rdg><note resp="#AG">id s. l. add. manus incerta Ric15</note>
                </app> lucri causa <app>
                   <lem ana="#ς #φ #ρ">facere videntur</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">faciunt</rdg>
@@ -10199,8 +10193,8 @@
                      >modesti</rdg>
                   <rdg ana="#π" type="draft" wit="#S #Ox1">viles</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">delicati</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#O" type="unique" wit="#Ric16">molesti</rdg>
                   <rdg ana="#A" type="polygenetic" wit="#Urb2 #Plut3">molesti</rdg>
                </app>
@@ -10215,8 +10209,8 @@
                      malitiosique dicuntur</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">simul malitiosique
                      vocantur</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"simul et viles [...] vocantur" legitur
-                        prima manus Ric15</foreign></note>
+                  <note resp="#AG">"simul et viles [...] vocantur" legitur
+                        prima manus Ric15</note>
                   <rdg ana="#A" type="polygenetic" wit="#Urb1 #Plut84 #Plut89">simul ac malitiosi
                      esse dicuntur</rdg>
                </app> et facile sperni possunt atque id ipsum arrogantia videtur <app>
@@ -10239,8 +10233,8 @@
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">ad arrogantiam pertinent</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">ad arrogantiam
                      pertinet</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>. Sed qui moderate dissimulatione utuntur nec ea dissimulant quae <app>
                   <lem ana="#O #A #π #ς #φ #ρ">nimis</lem>
                   <rdg ana="#φ" type="unique" wit="#D">minus</rdg>
@@ -10251,8 +10245,8 @@
                      >elegantes</rdg>
                   <rdg ana="#ς #ρ" type="draft" wit="#f #t #m #p #g #Amstel #r #v">gratiosi</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">gratiosi</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ">esse videntur</lem>
@@ -10419,8 +10413,8 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >atque inepti</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">ac importuni</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>, affectantes omnino ridiculum et <app>
                   <lem ana="#φ">potius</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
@@ -10585,8 +10579,8 @@
                      elegantes</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">quasi sint elegantes atque
                      gratiosi</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"quasi sint elegantes atque" legitur
-                        prima manus Ric15</foreign></note>
+                  <note resp="#AG">"quasi sint elegantes atque" legitur
+                        prima manus Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Par2">quasi sint elegantes aque urbani</rdg>
                </app>, sed eos differre, <app>
                   <lem ana="#O #A #π #ς #φ #ρ">atque</lem>
@@ -10610,8 +10604,8 @@
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >patuit</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">constat</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>.</p>
             <p>Accommodatur autem <app>
                   <lem ana="#ς #φ #ρ">huic</lem>
@@ -10642,8 +10636,8 @@
                      >ingenuumque</rdg>
                   <rdg ana="#π" type="draft" wit="#S #Ox1">liberumque</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">liberalemque</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="joining" wit="#Ch2 #Ox2">ingeniumque</rdg>
                </app>
                <app>
@@ -10663,8 +10657,8 @@
                   <rdg ana="#O" type="var_auct" wit="#Ric16">hominis ingenui</rdg>
                   <rdg ana="#π" type="draft" wit="#S #Ox1">liberi</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">hominis liberalis</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"hominis" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">"hominis" legitur prima manus
+                        Ric15</note>
                   <rdg ana="#A" type="joining" wit="#Ch2 #Ox2">hominis ingenii liberique</rdg>
                   <rdg ana="#A" type="unique" wit="#Holk" cert="low">homines ingenui liberique</rdg>
                </app> iocus et eruditi <app>
@@ -10764,8 +10758,8 @@
                      constat</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">an et hoc indefinitum esse
                      videtur</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">tantum "an" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">tantum "an" legitur prima manus
+                        Ric15</note>
                   <rdg ana="#A" type="polygenetic" wit="#Vat #Mon">an infinitum est id ipsum ut
                      constat</rdg>
                </app>? <app>
@@ -10849,8 +10843,8 @@
                      oportebat</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">illos et nonnulla prohibere
                      facete dicere oporteret</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Plut3">nonnullas etiam facetias prohibere</rdg>
                   <rdg ana="#φ" type="unique" wit="#D">illos et nonnulla prohibere facere dicere
                      oporteret</rdg>
@@ -10866,8 +10860,8 @@
                   <rdg ana="#π" type="draft" cert="unknown" wit="#S #Ox1">gratiosus atque
                      liber</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">elegans ac liber</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"elegans" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">"elegans" legitur prima manus
+                        Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Vrat">elegant ingenuusque</rdg>
                </app>
                <app>
@@ -11179,8 +11173,8 @@
                   <lem ana="#A #π #ς #φ #ρ">ad corpus</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">corporeum</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">ad corpus</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Vall">corporale</rdg>
                </app>
                <app>
@@ -11195,8 +11189,8 @@
                   <rdg ana="#O" type="draft" wit="#C #Ric16"/>
                   <rdg ana="#A" type="var_auct" wit="#Vall"/>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">accommodatum</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ">esse videtur</lem>
@@ -11428,8 +11422,8 @@
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">quare non est erubescendum</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">quare non est
                      verecundandum</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"verecundandum" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">"verecundandum" legitur prima manus
+                        Ric15</note>
                </app>-, sed improbi <app>
                   <lem ana="#φ">nimirum est</lem>
                   <rdg ana="#O #A" type="draft"
@@ -11446,8 +11440,8 @@
                   <rdg ana="#O" type="draft" wit="#C #Ric16">aliquam rerum turpium</rdg>
                   <rdg ana="#π" type="draft" wit="#S #Ox1">aliquid turpium</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">aliquid turpe</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">tantum "aliqui" legitur prima manus
-                        Ric15</foreign></note>
+                  <note resp="#AG">tantum "aliqui" legitur prima manus
+                        Ric15</note>
                </app> agat. <app>
                   <lem ana="#φ">Probum autem idcirco quempiam esse putare, quod ita sese habet ut,
                      si turpe quid egerit, verecundetur eumque pudeat, absurdum est sane:</lem>
@@ -11500,8 +11494,8 @@
                   <lem ana="#A #π #ς #φ #ρ">facit</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">egit</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">facit</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>, sed numquam <app>
                   <lem ana="#O #A #π #ς #φ #ρ">sua</lem>
                   <rdg ana="#ς" type="unique" wit="#f">sua sua</rdg>
@@ -11538,8 +11532,8 @@
                      virtutibus non est</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">in ipsis virtutibus non
                      est</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Ott">non est circa ipsa virtutes</rdg>
                </app>. Quod si <app>
                   <lem ana="#O #A #π #ς #φ #ρ">impudentia</lem>
@@ -11556,8 +11550,8 @@
                      >res improba quaedam est</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">improba res quaedam
                      est</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">"improba res quaedam" legitur prima
-                        manus Ric15</foreign></note>
+                  <note resp="#AG">"improba res quaedam" legitur prima
+                        manus Ric15</note>
                   <rdg ana="#A" type="unique" wit="#Mon">res improba est quaedam</rdg>
                </app>, nihilo <app>
                   <lem ana="#O #A #π #ς #φ #ρ">magis</lem>
@@ -11570,24 +11564,24 @@
                   <rdg ana="#π #ς #ρ" type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v">probum
                      erit</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">probum erit</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">quempiam res turpes agentem</lem>
                   <rdg ana="#O" type="var_auct" wit="#Ric16">si is qui res agit turpes</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">quempiam res turpes
                      agentem</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ">verecundari</lem>
                   <rdg ana="#O" type="var_auct" wit="#Ric16">verecundetur ipsumque pudeat</rdg>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">erubescere</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">verecundari</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>.</p>
             <p>At vero neque continentia <app>
                   <lem ana="#O #A #π #ς #φ #ρ">virtus</lem>
@@ -11598,8 +11592,8 @@
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"
                      >quoddam mixtum</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">quaedam permixta</rdg>
-                  <note resp="#AG"><foreign xml:lang="latin">non legitur prima manus
-                     Ric15</foreign></note>
+                   <note resp="#AG">non legitur prima manus
+                     Ric15</note>
                </app>, <app>
                   <lem ana="#φ">ostendetur autem in iis id ipsum quae posterius de ipsa dicentur </lem>
                   <rdg ana="#O #A" type="draft"
