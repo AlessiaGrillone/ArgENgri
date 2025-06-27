@@ -10356,7 +10356,7 @@
                </app> inter tales <app>
                   <lem ana="#π #ς #φ #ρ" wit="#Ric16 #S #Ox1 
                      #f #t #m #p #g 
-                     #Amstel #r #v #V #D #E">et</lem>
+                     #Amstel #r #v #V #D #E">et</lem><note resp="#AG">La lezione "et" in Ric16 si è verosimilmente originata per pressione contestuale ("et dicendo inter tales")</note>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Holk #Mon #Ox2 #Par2 #Vall #Vrat"
                      >aut</rdg>
@@ -10437,7 +10437,7 @@
                      >honesta</rdg>
                </app> loqui et non afficere <app>
                   <lem ana="#O #A #π #ς #φ #ρ">eum</lem>
-                  <rdg ana="#O" type="unique" wit="#Ric16">cum</rdg>
+                  <rdg ana="#O" type="unique" wit="#Ric16">cum</rdg><!-- oppure type= polygenetic?? -->
                   <rdg ana="#A" type="unique" wit="#Vrat">cum</rdg>
                </app> dolore <app>
                   <lem ana="#A #π #ς #φ #ρ">in quem</lem>
@@ -10502,7 +10502,7 @@
                <app>
                   <lem ana="#O #A #π #ς #φ">durique esse videntur</lem>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">sunt et duri</rdg>
-                  <rdg ana="#O" type="unique" wit="#Ric16">duri esse videntur</rdg>
+                  <rdg ana="#O" type="unique" wit="#Ric16">duri esse videntur</rdg><!-- oppure type= polygenetic?? -->
                   <rdg ana="#A" type="unique" wit="#Ch1">duri esse videntur</rdg>
                </app>.</p>
             <p>At <app>
@@ -10516,12 +10516,12 @@
                   <lem ana="#A #π #ς #φ #ρ">atque urbanus</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16"/>
                   <rdg ana="#A" type="unique" wit="#Holk">atque verbanus</rdg>
-                  <rdg ana="#A" type="unique" wit="#Mon" cause="transposition"/>
+                  <rdg ana="#A" type="unique" wit="#Mon" cause="transposition"/><note resp="#AG">"atque urbanus" post "moris" legitur Mon</note>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">vocatur</lem>
-                  <rdg ana="#A" type="unique" wit="#Mon" cause="transposition"/>
-                  <rdg ana="#A" type="joining" wit="#Ch2 #Ox2" cause="transposition"/>
+                  <rdg ana="#A" type="unique" wit="#Mon" cause="transposition"/><note resp="#AG">"vocatur" post "moris atque urbanus" legitur Mon</note>
+                  <rdg ana="#A" type="joining" wit="#Ch2 #Ox2" cause="transposition"/><note resp="#AG">"vocatur" post "moris" leguntur Ch2 Ox2</note>
                </app>, <app>
                   <lem ana="#ς #φ #ρ">talem sane moris iam habitum assecutus ut ad bene recteque
                      iocandum sese flectere possit</lem>
@@ -10554,7 +10554,7 @@
                      namque motiones mores ipsius esse videntur atque uti corpora sic et ipsi mores
                      motionibus discernuntur</rdg>
                   <rdg ana="#φ" type="unique" wit="#E">nam huiusce modi motiones moris ipsius esse
-                     videntur atque uti corpora sit et et ipsi mores motionibus discernuntur</rdg>
+                     videntur atque uti corpora sit et ipsi mores motionibus discernuntur</rdg>
                </app>. Cum autem <app>
                   <lem ana="#π #ς #φ #ρ">exundet ipsum</lem>
                   <rdg ana="#O #A" type="draft"
@@ -11133,7 +11133,7 @@
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">perinde</lem>
-                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"/><!-- <del>perinde</del> --><note>perinde del. manus incerta Ric15</note>
+                  <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX"><del rend="overstrike">perinde</del></rdg>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">atque</lem>
