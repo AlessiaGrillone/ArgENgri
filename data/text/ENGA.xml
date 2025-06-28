@@ -4180,8 +4180,12 @@
                      >sed qui</rdg>
                </app> parvis in rebus aut mediocribus pro dignitate sumptus facit - qualis est ille
                qui dicit: "<app>
-                  <lem ana="#A #π #ς #φ #ρ"><quote type="source"><ref target="#Od">atque ego saepe peregre
-                     dedi</ref></quote></lem>
+                  <lem ana="#A #π #ς #φ #ρ"><quote type="source"><bibl>
+                     <author>Homerus</author>
+                     <title>Odyssea</title>
+                     <biblScope>XVII, 420</biblScope>
+                  </bibl> atque ego saepe peregre
+                     dedi</quote></lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">saepe equidem dedi peregre</rdg>
                   <rdg ana="#A" type="unique" wit="#Plut1">atque ego saepe peregre</rdg>
                   <rdg ana="#ς" type="joining" wit="#t #m #p #g">atque ego saepe dedi peregre</rdg>
