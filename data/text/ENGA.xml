@@ -2226,7 +2226,7 @@
                   <rdg ana="#O" type="unique" cause="om" wit="#Ric16"/>
                </app>.</p>
             <p corresp="#ENGR_p_IV-I-1-04" xml:id="ENGA_p_IV-I-1-04"><app>
-                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v"
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #E #Amstel #r #v"
                      exclude="#D">Est enim ipsius virtutis</lem>
                   <note resp="#AG">in lac. D</note>
                   <rdg ana="#O #A" type="draft"
@@ -2612,8 +2612,8 @@
                      >qui</rdg>
                </app> pauciora <app>
                   <lem ana="#φ">dantur</lem>
-                  <rdg ana="#O #A #π #ς" type="draft">largitur</rdg>
-                  <rdg ana="#ρ" type="draft">donat</rdg>
+                  <rdg ana="#O #A #π #ς" type="draft" wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g">largitur</rdg>
+                  <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">donat</rdg>
                </app>, si modo <app>
                   <lem ana="#π #ς #φ #ρ">minores</lem>
                   <rdg ana="#O #A" type="draft"
@@ -3046,10 +3046,7 @@
                      >non</rdg>
                   <rdg ana="#φ" type="unique" wit="#E">aut</rdg>
                </app>
-               probat.<!-- Markup per EVT3 <ref type="parallel" target="#Rhet_II">Arist. Rhet. II, 1391 a 8-14,
-                  1405 b 23-28</ref>; <ref type="parallel" target="#Ecl_IV">Stob. Ed. IV, 10, 38,
-                  61</ref>; <ref type="parallel" target="#Deipn_XIV">Ateneo, Deipn. XIV, 656
-               C</ref>; <ref type="parallel" target="#Pax">Aristof., Pax, 697-699</ref> -->
+               probat.
             </p>
             <p corresp="#ENGR_p_IV-I-1-19" xml:id="ENGA_p_IV-I-1-19">Prodigus autem <app>
                   <lem ana="#O #A #π #ς #φ #ρ">et</lem>
