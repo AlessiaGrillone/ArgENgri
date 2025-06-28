@@ -4180,25 +4180,28 @@
                      >sed qui</rdg>
                </app> parvis in rebus aut mediocribus pro dignitate sumptus facit - qualis est ille
                qui dicit: "<app>
-                  <lem ana="#A #π #ς #φ #ρ"><quote type="source"><bibl>
+                  <lem ana="#A #π #ς #φ #ρ">"atque ego saepe peregre
+                     dedi</lem> <!-- <quote type="source"><bibl>
                      <author>Homerus</author>
                      <title>Odyssea</title>
                      <biblScope>XVII, 420</biblScope>
                   </bibl> "atque ego saepe peregre
-                     dedi</quote></lem>
+                     dedi</quote> -->
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">saepe equidem dedi peregre</rdg>
                   <rdg ana="#A" type="unique" wit="#Plut1">atque ego saepe peregre</rdg>
                   <rdg ana="#ς" type="joining" wit="#t #m #p #g">atque ego saepe dedi peregre</rdg>
                   <rdg ana="#φ" type="unique" wit="#E">aque ego saepe peregre dedi</rdg>
                </app>
                <app>
-                  <lem ana="#O #A #π #ς #φ #ρ"><quote type="source"><bibl>
+                  <lem ana="#O #A #π #ς #φ #ρ">venientibus</lem><!-- <quote type="source"><bibl>
                      <author>Homerus</author>
                      <title>Odyssea</title>
                      <biblScope>XVII, 420</biblScope>
-                  </bibl> venientibus</quote></lem>
+                  </bibl> venientibus</quote> -->
                   <rdg ana="#ς" type="unique" wit="#p">viventibus</rdg>
-               </app> ultro” - non <app>
+               </app> ultro”<note resp="#AG">
+                 <quote source="#Od">καὶ πολλάκι δόσκον ἀλήτῃ</quote>
+               </note> - non <app>
                   <lem ana="#φ">magnificus appellatur</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall"
