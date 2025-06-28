@@ -189,7 +189,7 @@
             ]
         }
     ],
-    "showInlineCriticalApparatus": false,
+    "showInlineCriticalApparatus": true,
     "showInlineSources": false,
     "showInlineAnalogues": false,
     "showReadingExponent": false,
