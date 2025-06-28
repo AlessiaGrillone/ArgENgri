@@ -11566,7 +11566,7 @@
       <back>
          <p>
             <listBibl>
-               <head>Passi Paralleli</head>
+               <head>Fonti e Passi Paralleli</head>
                <bibl xml:id="Achar">
                   <author>Aristophanes</author>
                   <title>Acharnenses</title>
@@ -11597,6 +11597,16 @@
                   <title>Deipnosophistae</title>
                   <biblScope>XIV, 656 C</biblScope>
                </bibl>
+               <bibl xml:id="Il">
+                  <author>Homerus</author>
+                  <title>Ilias</title>
+                  <biblScope>I, 394-407; 503-504</biblScope>
+               </bibl>
+               <bibl xml:id="Od">
+                  <author>Homerus</author>
+                  <title>Odyssea</title>
+                  <biblScope>XVII, 420</biblScope>
+               </bibl>
                <bibl xml:id="Ecl">
                   <author>Stobaeus</author>
                   <title>Eclogae physicae et ethicae</title>
@@ -11611,19 +11621,6 @@
                   <author>Theophrastus</author>
                   <title>Characteres</title>
                   <biblScope>Char. X, 13</biblScope>
-               </bibl>
-            </listBibl>
-            <listBibl>
-               <head>Fonti</head>
-               <bibl xml:id="Il">
-                  <author>Homerus</author>
-                  <title>Ilias</title>
-                  <biblScope>I, 394-407; 503-504</biblScope>
-               </bibl>
-               <bibl xml:id="Od">
-                  <author>Homerus</author>
-                  <title>Odyssea</title>
-                  <biblScope>XVII, 420</biblScope>
                </bibl>
             </listBibl>
          </p>
