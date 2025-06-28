@@ -4186,23 +4186,14 @@
                </bibl>
                   <app>
                      <lem ana="#A #π #ς #φ #ρ">"atque ego saepe peregre
-                        dedi</lem> <!-- <quote type="source"><bibl>
-                     <author>Homerus</author>
-                     <title>Odyssea</title>
-                     <biblScope>XVII, 420</biblScope>
-                  </bibl> "atque ego saepe peregre
-                     dedi</quote> -->
+                        dedi</lem>
                      <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">saepe equidem dedi peregre</rdg>
                      <rdg ana="#A" type="unique" wit="#Plut1">atque ego saepe peregre</rdg>
                      <rdg ana="#ς" type="joining" wit="#t #m #p #g">atque ego saepe dedi peregre</rdg>
                      <rdg ana="#φ" type="unique" wit="#E">aque ego saepe peregre dedi</rdg>
                   </app>
                   <app>
-                     <lem ana="#O #A #π #ς #φ #ρ">venientibus</lem><!-- <quote type="source"><bibl>
-                     <author>Homerus</author>
-                     <title>Odyssea</title>
-                     <biblScope>XVII, 420</biblScope>
-                  </bibl> venientibus</quote> -->
+                     <lem ana="#O #A #π #ς #φ #ρ">venientibus</lem>
                      <rdg ana="#ς" type="unique" wit="#p">viventibus</rdg>
                   </app> ultro”
                </quote> - non <app>
