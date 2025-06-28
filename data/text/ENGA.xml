@@ -6790,7 +6790,7 @@
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">superioris ac excellentis hoc
                      inferioris eiusque qui superatur</rdg>
                </app>. <app>
-                  <lem ana="#π #ς #φ #ρ">Et</lem>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">Et</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15">item</rdg>
                   <rdg ana="#A" type="draft"
                      wit="#Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
@@ -6799,10 +6799,7 @@
                      /></rdg>
                   <rdg ana="#A" type="unique" wit="#Ott" cause="om"><lacunaStart wit="#Ott"/></rdg>
                </app> in retribuendo maiora beneficia <app>
-                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">conferat</lem>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">conferat</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >confert</rdg><note resp="#AG">in lac. Ric16 Ott</note>
@@ -6814,117 +6811,73 @@
                      #V #D #E" exclude="#Ott #Ric16">hoc</lem><note resp="#AG">in lac. Ric16 Ott</note>
                   <rdg ana="#A" type="unique" wit="#Ch2">noc</rdg>
                </app> enim <app>
-                  <lem ana="#O #A #π #ς #φ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g #V #D #E" exclude="#Ott #Ric16">pacto</lem><note resp="#AG">in lac. Ric16 Ott</note>
+                  <lem ana="#O #A #π #ς #φ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E" exclude="#Ott #Ric16">pacto</lem><note resp="#AG">in lac. Ric16 Ott</note>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">modo</rdg>
                </app>
                <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">debitor insuper</lem><note resp="#AG">in lac. Ric16 Ott</note>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">debitor insuper</lem><note resp="#AG">in lac. Ric16 Ott</note>
                   <rdg ana="#O" type="var_auct" wit="#Ric15">obnoxius</rdg>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">insuper debitor</rdg>
                </app>
                <app>
-                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">fiet is</lem>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">fiet is</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ch1 #Ch2 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Holk #Mon #Ox2 #Par1 #Par2 #Vall"
                      >fit is</rdg><note resp="#AG">in lac. Ric16 Ott</note>
                   <rdg ana="#O" type="var_auct" wit="#Ric15">is fit</rdg>
                   <rdg ana="#A" type="polygenetic" wit="#Urb1 #Ric23 #Vrat">is</rdg>
                </app> qui primus contulit atque <app>
-                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">suscipiet</lem>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">suscipiet</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >suscipit</rdg><note resp="#AG">in lac. Ric16 Ott</note>
                </app> beneficium. Videtur etiam <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">et</lem>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">et</lem>
                   <rdg ana="#A" type="polygenetic" wit="#Plut3 #Vrat" cause="om"/>
                </app>
                <app>
-                  <lem ana="#ς #φ #ρ" wit=" #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">eorum quidem meminisse</lem>
+                  <lem ana="#ς #φ #ρ" wit=" #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">eorum quidem meminisse</lem>
                   <rdg ana="#O" type="draft" wit="#C">memoriam quidem eorum habere</rdg>
                   <rdg ana="#O" type="var_auct" wit="#Ric15">in memoria quidem eos habere</rdg>
                   <rdg ana="#A #π " type="draft"
                      wit="#Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"
                      >eorum quidem memoriam habere</rdg><note resp="#AG">in lac. Ric16 Ott</note>
                </app> in quos beneficia <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">contulit</lem>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">contulit</lem>
                   <rdg ana="#A" type="unique" wit="#Mon">contulerint</rdg><note resp="#AG">in lac. Ric16 Ott</note>
                </app>, <app>
-                  <lem ana="#ς #φ #ρ" wit="#f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">eorum autem non meminisse</lem>
+                  <lem ana="#ς #φ #ρ" wit="#f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">eorum autem non meminisse</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15">oblivioni vero eos mandare</rdg>
                   <rdg ana="#A #π " type="draft"
                      wit="#Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1"
                      >eorum autem non habere</rdg><note resp="#AG">in lac. Ric16 Ott</note>
                </app>
                <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">a</lem><note resp="#AG">in lac. Ric16 Ott</note>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">a</lem><note resp="#AG">in lac. Ric16 Ott</note>
                   <rdg ana="#A" type="joining" wit="#Urb1 #Ric23" cause="om"/>
                </app> quibus <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut3 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">ipse</lem><note resp="#AG">in lac. Ric16 Ott</note>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut3 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">ipse</lem><note resp="#AG">in lac. Ric16 Ott</note>
                   <rdg ana="#A" type="unique" wit="#Plut1" cause="om"/>
                   <rdg ana="#A" type="unique" wit="#Plut84">ipsa</rdg>
                </app>
                <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">suscepit</lem><note resp="#AG">in lac. Ric16 Ott</note>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">suscepit</lem><note resp="#AG">in lac. Ric16 Ott</note>
                   <rdg ana="#A" type="unique" wit="#Plut3">suscipit</rdg>
-               </app> ̶ <app>
+               </app>  ̶  <app>
                   <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott #Ric16">est</lem><note resp="#AG">in lac. Ric16 Ott</note>
+                     #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">est</lem><note resp="#AG">in lac. Ric16 Ott</note>
                   <rdg ana="#A" type="unique" wit="#Plut84">et</rdg>
                </app> enim <app>
                   <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E">is</lem><note resp="#AG">in lac. Ric16 Ott</note>
+                     #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v">is</lem><note resp="#AG">in lac. Ric16 Ott</note>
                   <rdg ana="#A" type="unique" wit="#Mon">iste</rdg>
                </app> qui <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E">suscepit</lem><note resp="#AG">in lac. Ric16 Ott</note>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v
+                     ">suscepit</lem><note resp="#AG">in lac. Ric16 Ott</note>
                   <rdg ana="#A" type="unique" wit="#Plut3">suscipit</rdg>
                </app>
                <app>
-                  <lem ana="#π #ς #φ #ρ">inferior eo qui contulit beneficium</lem>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott #Ric16">inferior eo qui contulit beneficium</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >eo qui contulit beneficium ut patet inferior</rdg>
