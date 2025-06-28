@@ -4090,7 +4090,7 @@
                </app> enim et ipsa virtus quaedam circa pecunias <app>
                   <lem ana="#O #A #π #ς #φ">esse</lem>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v"/>
-                  <rdg ana="#A" type="unique" wit="#Ric23" cause="transposition"/>
+                  <rdg ana="#A" type="unique" wit="#Ric23" cause="transposition"/><note resp="#AG">"esse" post "videtur" legitur RIc23</note>
                </app>. Non tamen sese extendit ut liberalitas ad <app>
                   <lem ana="#O #A #π #ς #φ">omnes</lem>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">omnis</rdg>
@@ -4180,8 +4180,8 @@
                      >sed qui</rdg>
                </app> parvis in rebus aut mediocribus pro dignitate sumptus facit - qualis est ille
                qui dicit: "<app>
-                  <lem ana="#A #π #ς #φ #ρ"><seg source="#Od">atque ego saepe peregre
-                     dedi</seg></lem>
+                  <lem ana="#A #π #ς #φ #ρ"><quote type="source" target="#Od">atque ego saepe peregre
+                     dedi</quote></lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">saepe equidem dedi peregre</rdg>
                   <rdg ana="#A" type="unique" wit="#Plut1">atque ego saepe peregre</rdg>
                   <rdg ana="#ς" type="joining" wit="#t #m #p #g">atque ego saepe dedi peregre</rdg>
