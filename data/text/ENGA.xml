@@ -4184,15 +4184,19 @@
                      <author>Homerus</author>
                      <title>Odyssea</title>
                      <biblScope>XVII, 420</biblScope>
-                  </bibl> atque ego saepe peregre
-                     dedi</quote></lem>
+                  </bibl> "atque ego saepe peregre
+                     dedi</quote><note resp="#AG">καὶ πολλάκι δόσκον ἀλήτῃ</note></lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">saepe equidem dedi peregre</rdg>
                   <rdg ana="#A" type="unique" wit="#Plut1">atque ego saepe peregre</rdg>
                   <rdg ana="#ς" type="joining" wit="#t #m #p #g">atque ego saepe dedi peregre</rdg>
                   <rdg ana="#φ" type="unique" wit="#E">aque ego saepe peregre dedi</rdg>
                </app>
                <app>
-                  <lem ana="#O #A #π #ς #φ #ρ"><seg source="#Od">venientibus</seg></lem>
+                  <lem ana="#O #A #π #ς #φ #ρ"><quote type="source"><bibl>
+                     <author>Homerus</author>
+                     <title>Odyssea</title>
+                     <biblScope>XVII, 420</biblScope>
+                  </bibl> venientibus</quote></lem>
                   <rdg ana="#ς" type="unique" wit="#p">viventibus</rdg>
                </app> ultro”
                <!-- EVT3 <ref type="parallel" target="#Od_XVII">Hom. Od. XVII, 420</ref> --> - non <app>
