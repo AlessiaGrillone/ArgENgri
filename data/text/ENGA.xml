@@ -6996,7 +6996,8 @@
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">aut</lem>
                   <rdg ana="#A" type="unique" wit="#Mon" cause="om"/>
-                  <rdg ana="#π" type="corr" wit="#Ox1" hand="scribeX">vel <add place="margin"
+                  <rdg ana="#π" type="adiaphora" wit="#Ox1">vel</rdg>
+                  <rdg ana="#π" type="corr" wit="#Ox1" hand="scribeX"><add place="margin"
                         >aut</add></rdg>
                </app> vix <app>
                   <lem ana="#A #π #ς #φ #ρ">indigere, subministrare autem prompte et</lem>
@@ -7147,6 +7148,7 @@
                   <rdg ana="#A" type="unique" wit="#Mon">etiam ipsum palam</rdg>
                </app> tam <app>
                   <lem ana="#O #A #π #ς #φ #ρ">odisse</lem>
+                  <rdg ana="#A" type="unique" wit="#Holk" cause="om"/>
                   <rdg ana="#A" type="corr" wit="#Holk" hand="scribeX"><add place="margin"
                         >odisse</add></rdg>
                </app> quam etiam amare, quippe cum <app>
@@ -7251,7 +7253,7 @@
                   <lem ana="#A #π #ς #φ #ρ">sibi mali memor illati</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">odii tenax ac irae</rdg>
                   <rdg ana="#A" type="polygenetic" wit="#Ch1 #Ott #Vrat">sibi mali memor illati
-                     meminisse</rdg>
+                     meminisse</rdg><note resp="#AG">L'errore sembra essersi generato da un fraintendimento di una correzione d'autore</note>
                   <rdg ana="#A" type="unique" wit="#Ric23">sibi memor illati</rdg>
                </app>: non est <app>
                   <lem ana="#O #A #π #ς #φ #ρ">enim</lem>
@@ -7418,10 +7420,12 @@
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">et volubilitas linguae et item
                      incessus celeritas</rdg>
                   <rdg ana="#A" type="draft"
-                     wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall Vrat"
+                     wit="#Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2"
                      >et volubilitas linguae et incessus celeritas</rdg>
+                  <rdg ana="#A" type="polygenetic" wit="#Ott #Vall">et volubilitas lingae et incessus celeritas</rdg>
                   <rdg ana="#A" type="unique" wit="#Plut3">et et volubilitas linguae et incessus
                      celeritas</rdg>
+                  <rdg ana="#A" type="unique" wit="#Vrat">et volubilitas ligue et incessus celeritas</rdg>
                </app>
                <app>
                   <lem ana="#ς #φ #ρ">propter haec ipsa fieri solent</lem>
@@ -7490,7 +7494,7 @@
                   <lem ana="#O #A #π #ς #φ">ipsum</lem>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">ipse</rdg>
                </app> privat quibus est dignus <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">atque malum</lem>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott">atque malum</lem>
                   <rdg ana="#A" type="unique" wit="#Ott" cause="om"><lacunaStart wit="#Ott"/></rdg>
                </app>
                <app>
@@ -7513,15 +7517,10 @@
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">habet quia</rdg>
                </app> bonis se <app>
                   <lem ana="#O #A #π #ς #φ" wit="#C #Ric15 #Ric16 
-                     #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g #V #D #E" exclude="#Ott">ipsum</lem><note resp="#AG">in lac. Ott</note>
+                     #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E" exclude="#Ott">ipsum</lem><note resp="#AG">in lac. Ott</note>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v"/>
                </app> dignum non censet, et se <app>
-                  <lem ana="#O #A #π #ς #φ" wit="#C #Ric15 #Ric16 
-                     #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g #V #D #E" exclude="#Ott">ipsum</lem><note resp="#AG">in lac. Ott</note>
+                  <lem ana="#O #A #π #ς #φ" wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E" exclude="#Ott">ipsum</lem><note resp="#AG">in lac. Ott</note>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">ipse</rdg>
                </app>
                <app>
@@ -7531,15 +7530,11 @@
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #Amstel #r #v"
                      >ignorat</rdg>
                </app>: <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 
-                     #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ott">appeteret</lem><note resp="#AG">in lac. Ott</note>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott">appeteret</lem><note resp="#AG">in lac. Ott</note>
                   <rdg ana="#ς" type="unique" wit="#f">appetere</rdg>
                </app> enim ea quibus <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">est dignus</lem>
-                  <rdg ana="#A" type="unique" wit="#Ott"><lacunaEnd wit="#Ott"/></rdg>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ott">est dignus</lem>
+                  <rdg ana="#A" type="unique" wit="#Ott" cause="om"><lacunaEnd wit="#Ott"/></rdg>
                </app>, cum <app>
                   <lem ana="#A #π #ς #φ #ρ">sint</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">illa sint</rdg>
@@ -7626,7 +7621,7 @@
                   <lem ana="#O #A #π #ς #φ #ρ">indigni</lem>
                   <rdg ana="#A" type="polygenetic" wit="#Ott #Urb2">digni</rdg>
                   <rdg ana="#A" type="corr" wit="#Urb2" hand="scribeX"><add place="margin"
-                     >non</add></rdg>
+                     >non</add> digni</rdg>
                </app>, et a <app>
                   <lem ana="#A #π #ς #φ #ρ">bonis externis</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">rebus item externis</rdg>
