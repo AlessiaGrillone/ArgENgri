@@ -8719,7 +8719,7 @@
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >appellamus viriles</rdg>
                </app>. <app>
-                  <lem ana="#ς #φ #ρ" wit="#f #t #m #p #g #V #E #Amstel #r #v">Facile igitur</lem>
+                  <lem ana="#ς #φ #ρ" wit="#f #t #m #p #g #V #E #Amstel #r #v" exclude="#D">Facile igitur</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >sed facile</rdg>
@@ -8729,28 +8729,20 @@
                      Ric15</note>
                   <rdg ana="#φ" type="unique" wit="#D" cause="om"><lacunaStart wit="#D"/></rdg>
                </app> non est <app>
-                  <lem ana="#A #π #ς #φ #ρ">assignare</lem>
+                  <lem ana="#A #π #ς #φ #ρ" wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #E #Amstel #r #v" exclude="#D">assignare</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric16">excipere</rdg>
                   <rdg ana="#O" type="corr" wit="#Ric15" hand="scribeX">assignare</rdg>
                   <note resp="#AG">non legitur prima manus
                      Ric15</note>
                </app>
                <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 
-                     #Ch1 #Urb2 #Vat #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par1 #S #Ox1 
-                     #f #t #m #g #Amstel #r #v
-                     #V #E" exclude="#D">ratione</lem><note resp="#AG">in lac. D</note>
-                  <rdg ana="#A" type="polygenetic" wit="#Ch2 #Ott #Faes #Mon #Par2 #Vall #Vrat"
-                     >ratione est</rdg>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Urb2 #Vat #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Ox2 #Par1 #S #Ox1 #f #t #m #g #V #E #Amstel #r #v" exclude="#D">ratione</lem><note resp="#AG">in lac. D</note>
+                  <rdg ana="#A" type="polygenetic" wit="#Ch2 #Ott #Faes #Mon #Par2 #Vall #Vrat" >ratione est</rdg>
                   <rdg ana="#A" type="unique" wit="#Urb1">rationem</rdg>
                   <rdg ana="#ς" type="unique" wit="#p">rationem</rdg>
                </app>
                <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 
-                     #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 #t #m #p #g 
-                     #Amstel #r #v
-                     #V #E" exclude="#D">quantum</lem><note resp="#AG">in lac. D</note>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat S #Ox1 #t #m #p #g #V #E #Amstel #r #v" exclude="#D">quantum</lem><note resp="#AG">in lac. D</note>
                   <rdg ana="#ς" type="unique" wit="#f">quam um</rdg>
                </app> et quo modo quispiam <app>
                   <lem ana="#φ" wit="#V #E" exclude="#D">digressus</lem><note resp="#AG">in lac. D</note>
@@ -8759,7 +8751,7 @@
                      >egressus</rdg>
                </app>
                <app>
-                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #E #Amstel #r #v">vituperandus est</lem>
+                  <lem ana="#π #ς #φ #ρ" wit="#S #Ox1 #f #t #m #p #g #V #E #Amstel #r #v" exclude="#D">vituperandus est</lem>
                   <rdg ana="#O" type="draft" wit="#Ric15 #Ric16">carpendus ob id ipsum
                      vituperandusque sit</rdg>
                   <rdg ana="#O" type="var_auct" wit="#C">carpendus est ob id ipsum vituperandusque
