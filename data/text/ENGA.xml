@@ -8339,7 +8339,7 @@
                   <lem ana="#O #A #π #ς #φ #ρ">et</lem>
                   <rdg ana="#A" type="unique" wit="#Ch2" cause="om"/>
                </app> magis <app>
-                  <lem ana="#A #π #ς #φ #ρ" wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #p #g #V #D #E #Amstel #r #v">et velocius</lem>
+                  <lem ana="#A #π #ς #φ #ρ" wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #p #g #V #D #E #Amstel #r #v" exclude="#Ch2">et velocius</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">et citius</rdg>
                   <rdg ana="#A" type="unique" wit="#Ch2" cause="om"><lacunaStart wit="#Ch2"/></rdg>
                   <rdg ana="#ς" type="unique" wit="#m">et et velocius</rdg>
@@ -8352,7 +8352,7 @@
                         <add place="above">i</add>
                      </subst></rdg>
                </app> in tempore quam <app>
-                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r">oportet</lem>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ric15 #Ric16 #Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r" exclude="#Ch2">oportet</lem>
                   <rdg ana="#A" type="unique" wit="#Ch2" cause="om"><lacunaEnd wit="#Ch2"/></rdg>
                   <rdg ana="#A" type="unique" wit="#Plut3">oportent</rdg>
                   <rdg ana="#ρ" type="unique" wit="#v">oporte</rdg>
