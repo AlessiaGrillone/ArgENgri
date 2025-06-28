@@ -192,7 +192,7 @@
     "showInlineCriticalApparatus": true,
     "showInlineSources": false,
     "showInlineAnalogues": false,
-    "showReadingExponent": false,
+    "showReadingExponent": true,
     "toolHeatMap": true,
     "versions": [
 
