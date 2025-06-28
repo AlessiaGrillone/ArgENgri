@@ -11574,15 +11574,15 @@
                   <title>Pax</title>
                   <biblScope unit="line">697-699</biblScope>
                </bibl>
-               <bibl>
+               <bibl xml:id="Ves57">
                   <author>Aristophanes</author>
                   <title>Vespae</title>
-                  <biblScope unit="line" xml:id="Ves57">57</biblScope>
+                  <biblScope unit="line">57</biblScope>
                </bibl>
-               <bibl>
+               <bibl xml:id="Ves1357">
                   <author>Aristophanes</author>
                   <title>Vespae</title>
-                  <biblScope unit="line" xml:id="Ves1357">1357</biblScope>
+                  <biblScope unit="line">1357</biblScope>
                </bibl>
                <bibl xml:id="Rhet">
                   <author>Aristoteles</author>
