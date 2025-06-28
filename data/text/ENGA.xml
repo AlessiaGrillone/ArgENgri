@@ -3641,8 +3641,8 @@
                   <lem ana="#O #A #π #ς #φ #ρ">et enim et</lem>
                   <rdg ana="#A" type="unique" wit="#Ric23">et enim est</rdg>
                </app> senectus et imbecillitas omnis avaros <app>
-                  <lem ana="#π #ς #φ">videtur efficere</lem>
-                  <rdg ana="#ρ" type="draft">efficit</rdg>
+                  <lem ana="#O #A #π #ς #φ">videtur efficere</lem>
+                  <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">efficit</rdg>
                </app> - estque hominibus insita magis quam prodigalitas. <app>
                   <lem ana="#π #ς #φ #ρ">Plerique</lem>
                   <rdg ana="#O #A" type="draft"
@@ -3662,7 +3662,7 @@
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">sunt magis</lem>
-                  <rdg ana="#A" type="unique" wit="#Plut3" cause="transposition"/>
+                  <rdg ana="#A" type="unique" wit="#Plut3" cause="transposition"/><note resp="#AG">"sunt magis" ante "cupidi" legitur Plut3</note>
                </app> pecuniarum quam ad dandum proclives. <app>
                   <lem ana="#O #A #π #ς #φ #ρ">Extenditur</lem>
                   <rdg ana="#A" type="unique" wit="#Ch2">extendatur</rdg>
@@ -3749,7 +3749,7 @@
                      volunt accipere, partim</rdg>
                   <rdg ana="#A" type="joining"
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
-                     cause="transposition"/>
+                     cause="transposition"/><note resp="#AG">"aliena tamen non cupiunt neque volunt accipere" post "ob metum" legitur A</note>
                </app> propter <app>
                   <lem ana="#O #A #π #ς #φ #ρ">modestiam</lem>
                   <rdg ana="#A" type="polygenetic" wit="#Plut3 #Par2">molestiam</rdg>
@@ -3794,10 +3794,7 @@
                   <rdg ana="#A" type="joining" cause="om" wit="#Plut3 #Mon"/>
                </app>
                <app>
-                  <lem ana="#π #ς #φ #ρ">ipse <seg source="#Ves1357 #Char">cumini sector</seg>
-                     <!-- Markup per EVT 3: <ref type="parallel" target="#Ves_1357 #Char_X">
-                        Aristoph. Ves., 1357; Teoph.
-                        Char. X, 13.</ref> --></lem>
+                  <lem ana="#π #ς #φ #ρ"><seg source="#Ves1357 #Char">ipse cumini sector</seg></lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >tenuis homo</rdg>
@@ -11577,10 +11574,14 @@
                   <title>Pax</title>
                   <biblScope unit="line">697-699</biblScope>
                </bibl>
-               <bibl xml:id="Ves">
+               <bibl>
                   <author>Aristophanes</author>
                   <title>Vespae</title>
                   <biblScope unit="line" xml:id="Ves57">57</biblScope>
+               </bibl>
+               <bibl>
+                  <author>Aristophanes</author>
+                  <title>Vespae</title>
                   <biblScope unit="line" xml:id="Ves1357">1357</biblScope>
                </bibl>
                <bibl xml:id="Rhet">
