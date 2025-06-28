@@ -4185,7 +4185,7 @@
                      <title>Odyssea</title>
                      <biblScope>XVII, 420</biblScope>
                   </bibl> "atque ego saepe peregre
-                     dedi</quote><note resp="#AG">καὶ πολλάκι δόσκον ἀλήτῃ</note></lem>
+                     dedi</quote></lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">saepe equidem dedi peregre</rdg>
                   <rdg ana="#A" type="unique" wit="#Plut1">atque ego saepe peregre</rdg>
                   <rdg ana="#ς" type="joining" wit="#t #m #p #g">atque ego saepe dedi peregre</rdg>
@@ -4198,8 +4198,7 @@
                      <biblScope>XVII, 420</biblScope>
                   </bibl> venientibus</quote></lem>
                   <rdg ana="#ς" type="unique" wit="#p">viventibus</rdg>
-               </app> ultro”
-               <!-- EVT3 <ref type="parallel" target="#Od_XVII">Hom. Od. XVII, 420</ref> --> - non <app>
+               </app> ultro” - non <app>
                   <lem ana="#φ">magnificus appellatur</lem>
                   <rdg ana="#O #A" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall"
@@ -4215,41 +4214,25 @@
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">magnis</lem>
                   <rdg ana="#ρ" type="unique" wit="#v">magis</rdg>
-               </app>: <app>
-                  <lem ana="#O #A #π #ς #φ #ρ">nam</lem>
-                  <rdg ana="#O" type="joining" wit="#Ric15 #Ric16" cause="om">nam <lacunaStart
+               </app>: nam <app>
+                  <rdg ana="#O" type="joining" wit="#Ric15 #Ric16" cause="om"><lacunaStart
                         wit="#Ric15 #Ric16"/></rdg>
                </app> magnificus quidem liberalis est, <app>
-                  <lem ana="#O #A #π #ς #φ #ρ"
-                     wit="#C #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ric15 #Ric16">at</lem>
+                  <lem ana="#O #A #π #ς #φ #ρ" wit="#C #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ric15 #Ric16">at</lem>
                   <note resp="#AG">in lac. Ric15 Ric16</note>
                   <rdg ana="#A" type="joining" wit="#Plut84 #Plut89">et</rdg>
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ"
-                     wit="#C #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E" exclude="#Ric15 #Ric16">liberalis</lem>
+                     wit="#C #Ch1 #Ch2 #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ric15 #Ric16">liberalis</lem>
                   <note resp="#AG">in lac. Ric15 Ric16</note>
                   <rdg ana="#A" type="unique" wit="#Ott">liberalitatem</rdg>
                </app> non continuo <app>
                   <lem ana="#A #π #ς #φ #ρ"
-                     wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat 
-                     #S #Ox1 
-                     #f #t #m #p #g 
-                     #Amstel #r #v
-                     #V #D #E">magnificus est</lem>
+                     wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ric15 #Ric16">magnificus est</lem>
                   <rdg ana="#O" type="draft" cert="unknown" wit="#C">est magnificus</rdg>
                   <rdg ana="#A" type="unique" wit="#Ch2">est magnificus</rdg>
-                  <rdg ana="#O" type="joining" wit="#Ric15 #Ric16"><lacunaEnd wit="#Ric15 #Ric16"
-                     /></rdg>
-               </app>.</p>
+               </app><app><rdg ana="#O" type="joining" wit="#Ric15 #Ric16"><lacunaEnd wit="#Ric15 #Ric16"/></rdg></app>.</p>
             <p><app>
                   <lem ana="#π #ς #φ #ρ">Talis</lem>
                   <rdg ana="#O #A" type="draft"
