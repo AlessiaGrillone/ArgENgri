@@ -4232,7 +4232,8 @@
                      wit="#Ch1 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #V #D #E #Amstel #r #v" exclude="#Ric15 #Ric16">magnificus est</lem>
                   <rdg ana="#O" type="draft" cert="unknown" wit="#C">est magnificus</rdg>
                   <rdg ana="#A" type="unique" wit="#Ch2">est magnificus</rdg>
-               </app><app><rdg ana="#O" type="joining" wit="#Ric15 #Ric16"><lacunaEnd wit="#Ric15 #Ric16"/></rdg></app>.</p>
+               </app>
+               <app><rdg ana="#O" type="joining" wit="#Ric15 #Ric16"><lacunaEnd wit="#Ric15 #Ric16"/></rdg></app>.</p>
             <p><app>
                   <lem ana="#π #ς #φ #ρ">Talis</lem>
                   <rdg ana="#O #A" type="draft"
