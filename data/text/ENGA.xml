@@ -59,7 +59,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="V.m1">Mano principale di Isacco Argiropulo</handNote>
+                              <handNote xml:id="V.m1">Mano principale: Isacco Argiropulo</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc></witness>
@@ -183,6 +183,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
+                              <handNote xml:id="Ch1.m1">Mano principale</handNote>
                               <handNote xml:id="Ch1.mX">Mano forse diversa da quella principale</handNote>
                            </handDesc>
                         </physDesc>
@@ -2176,7 +2177,7 @@
                </app>. Hoc igitur modo prodigalitatem <app>
                   <lem ana="#O #A #π #ς #φ #ρ">accipimus.</lem>
                   <rdg ana="#A" type="unique" wit="#Urb1" hand="#Urb1.m1" cause="om"/>
-                  <rdg ana="#A" type="corr" wit="#Urb1" hand="scribe2"><add place="margin"
+                  <rdg ana="#A" type="corr" wit="#Urb1" hand="Urb1.m2"><add place="margin"
                         >accipimus</add></rdg>
                </app></p>
             <p corresp="#ENGR_p_IV-I-1-03" xml:id="ENGA_p_IV-I-1-03">Rebus autem iis <app>
@@ -5520,7 +5521,7 @@
                   <lem ana="#A #π #ς #φ #ρ">Pusillus</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">modicus</rdg>
                   <rdg ana="#A" type="var_auct" wit="#Ch1 #Faes #Vall #Vrat">modicus</rdg>
-                  <rdg ana="#A" type="corr" wit="#Ric23" hand="#Ric23.mX">pusillus <add place="above"
+               <rdg ana="#A" type="corr" wit="#Ric23">pusillus <add  hand="#Ric23.mX" place="above"
                         >modicus</add></rdg>
                </app> autem <app>
                   <lem ana="#A #π #ς #φ #ρ">in decoro</lem>
@@ -6989,7 +6990,7 @@
                         ut patet inferior</add></rdg>
                </app> <app>
                   <rdg ana="#O" type="unique" wit="#Ric16"><lacunaEnd wit="#Ric16"/></rdg>
-                  <rdg ana="#A" type="unique" wit="#Ott"><lacunaEnd wit="#Ott"/></rdg>
+                  <rdg ana="#A" type="unique" wit="#Ott" hand="#Ott.m1"><lacunaEnd wit="#Ott"/></rdg>
                   </app>,
                   <app>
                   <lem ana="#A #π #ς #φ #ρ">ipse vero</lem>
@@ -7685,7 +7686,7 @@
                      >exercitiis</rdg>
                </app> quasi sint <app>
                   <lem ana="#O #A #π #ς #φ #ρ">indigni</lem>
-                  <rdg ana="#A" type="polygenetic" wit="#Ott #Urb2">digni</rdg>
+                  <rdg ana="#A" type="polygenetic" wit="#Ott #Urb2" hand="#Urb2.m1">digni</rdg>
                   <rdg ana="#A" type="corr" wit="#Urb2" hand="#Urb2.m2"><add place="margin">non</add>
                      digni</rdg>
                </app>, et a <app>
@@ -9011,7 +9012,7 @@
                </app>
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">quidem</lem>
-                  <rdg ana="#A" type="unique" wit="#Holk" cause="om"/>
+                  <rdg ana="#A" type="unique" wit="#Holk" hand="#Holk.m1" cause="om"/>
                   <rdg ana="#A" type="corr" wit="#Holk" hand="#Holk.mX"><add place="margin"
                         >quidem</add></rdg>
                </app> duos habitus <app>
@@ -9880,8 +9881,8 @@
                      profecto sed fugiet mendacium sane</rdg>
                   <rdg ana="#π #ς #ρ" type="draft" wit="#S #Ox1 #f #t #m #p #g #Amstel #r #v">ut
                      turpe enim mendacium fugiet quod et per se fugiebat</rdg>
-                  <rdg ana="#A" type="corr" wit="#Ch1" hand="#Ch1.mX">et enim qui per se mendacium
-                     sane <add place="margin">fugit is ubi turpe est mentiri non mentietur profecto
+                  <rdg ana="#A" type="corr" wit="#Ch1">et enim qui per se mendacium
+                     sane <add hand="#Ch1.mX" place="margin">fugit is ubi turpe est mentiri non mentietur profecto
                         sed fugit mendacium</add></rdg>
                   <rdg ana="#A" type="joining" wit="#Urb1 #Ric23">et enim qui per se mendacium fugit
                      is ubi turpe mentiri non mentietur profecto sed fugiet mendacium sane</rdg>
@@ -10436,7 +10437,7 @@
                      wit="#C #Ric15 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
                      >in hisce quae risum movent</rdg>
                   <rdg ana="#O" type="unique" wit="#Ric16">in hisce quae movent risum</rdg>
-                  <rdg ana="#A" type="unique" wit="#Ch1">movent</rdg>
+                  <rdg ana="#A" type="unique" wit="#Ch1" hand="#Ch1.m1">movent</rdg>
                   <rdg ana="#A" type="corr" wit="#Ch1" hand="#Ch1.mX"><add place="margin"
                         >defectionemve qui igitur in hisce quae risum</add></rdg>
                </app> exsuperant scurrae <app>
