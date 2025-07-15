@@ -59,7 +59,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="V.m1">Mano principale: Isacco Argiropulo</handNote>
+                              <handNote xml:id="V.m1">V.m1: Mano principale di Isacco Argiropulo</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc></witness>
@@ -79,7 +79,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="D.m1">Mano principale</handNote>
+                              <handNote xml:id="D.m1">D.m1: Mano principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -99,8 +99,8 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="E.m1">Mano principale</handNote>
-                              <handNote xml:id="E.m2">Seconda mano: Giacomo Aurelio Questenberg</handNote>
+                              <handNote xml:id="E.m1">E.m1: Mano principale</handNote>
+                              <handNote xml:id="E.m2">E.m2: Seconda mano di Giacomo Aurelio Questenberg</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -139,8 +139,8 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Ric15.m1">Mano principale: Pierfilippo Pandolfini</handNote>
-                              <handNote xml:id="Ric15.mX">Mano di un correttore, forse diverso dallo scriba principale</handNote>
+                              <handNote xml:id="Ric15.m1">Ric15.m1: Mano principale di Pierfilippo Pandolfini</handNote>
+                              <handNote xml:id="Ric15.mX">Ric15.mX: Mano di un correttore, forse diverso dallo scriba principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -160,7 +160,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Ric16.m1">Mano principale</handNote>
+                              <handNote xml:id="Ric16.m1">Ric16.m1: Mano principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -183,8 +183,8 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Ch1.m1">Mano principale</handNote>
-                              <handNote xml:id="Ch1.mX">Mano forse diversa da quella principale</handNote>
+                              <handNote xml:id="Ch1.m1">Ch1.m1: Mano principale</handNote>
+                              <handNote xml:id="Ch1.mX">Ch1.mX: Mano forse diversa da quella principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -204,7 +204,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Ch2.m1">Mano principale</handNote>
+                              <handNote xml:id="Ch2.m1">Ch2.m1: Mano principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -225,8 +225,8 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Ott.m1">Mano principale</handNote>
-                              <handNote xml:id="Ott.mX">Mano forse diversa da quella principale</handNote>
+                              <handNote xml:id="Ott.m1">Ott.m1: Mano principale</handNote>
+                              <handNote xml:id="Ott.mX">Ott.mX: Mano forse diversa da quella principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -247,8 +247,8 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Urb1.m1">Mano principale: Hubertus</handNote>
-                              <handNote xml:id="Urb1.m2">Seconda mano</handNote>
+                              <handNote xml:id="Urb1.m1">Urb1.m1: Mano principale di Hubertus</handNote>
+                              <handNote xml:id="Urb1.m2">Urb1.m2: Seconda mano</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -269,9 +269,9 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Urb2.m1">Mano principale: Francesco degli Ugolini da Colle Val d’Elsa</handNote>
-                              <handNote xml:id="Urb2.m2">Seconda mano</handNote>
-                              <handNote xml:id="Urb2.mX">Mano forse diversa da quella principale</handNote>
+                              <handNote xml:id="Urb2.m1">Urb2.m1: Mano principale di Francesco degli Ugolini da Colle Val d’Elsa</handNote>
+                              <handNote xml:id="Urb2.m2">Urb2.m2: Seconda mano</handNote>
+                              <handNote xml:id="Urb2.mX">Urb2.mX: Mano forse diversa da quella principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -308,7 +308,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Faes.m1">Mano principale: Piero di Benedetto Strozzi</handNote>
+                              <handNote xml:id="Faes.m1">Faes.m1: Mano principale di Piero di Benedetto Strozzi</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -377,7 +377,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Plut89.m1">Mano principale</handNote>
+                              <handNote xml:id="Plut89.m1">Plut89.m1: Mano principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -397,7 +397,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Ric23.mX">Mano forse diversa da quella principale</handNote>
+                              <handNote xml:id="Ric23.mX">"Ric23.mX: Mano forse diversa da quella principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -417,8 +417,8 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Holk.m1">Mano principale</handNote>
-                              <handNote xml:id="Holk.mX">Mano forse diversa da quella principale</handNote>
+                              <handNote xml:id="Holk.m1">Holk.m1: Mano principale</handNote>
+                              <handNote xml:id="Holk.mX">Holk.mX: Mano forse diversa da quella principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -456,7 +456,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Ox2.m1">Mano principale: Bartolomeo Fonzio</handNote>
+                              <handNote xml:id="Ox2.m1">Ox2.m1: Mano principale di Bartolomeo Fonzio</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -521,7 +521,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Vrat.m1">Mano principale</handNote>
+                              <handNote xml:id="Vrat.m1">Vrat.m1: Mano principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -561,7 +561,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Ox1.m1">Mano principale</handNote>
+                              <handNote xml:id="Ox1.m1">Ox1.m1: Mano principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
