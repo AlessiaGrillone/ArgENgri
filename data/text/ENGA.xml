@@ -99,7 +99,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="E.m1">E.m1: Mano principale</handNote>
+                              <handNote xml:id="E.m1">E.m1: Mano principale;</handNote>
                               <handNote xml:id="E.m2">E.m2: Seconda mano di Giacomo Aurelio Questenberg</handNote>
                            </handDesc>
                         </physDesc>
@@ -183,7 +183,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Ch1.m1">Ch1.m1: Mano principale</handNote>
+                              <handNote xml:id="Ch1.m1">Ch1.m1: Mano principale;</handNote>
                               <handNote xml:id="Ch1.mX">Ch1.mX: Mano forse diversa da quella principale</handNote>
                            </handDesc>
                         </physDesc>
@@ -225,7 +225,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Ott.m1">Ott.m1: Mano principale</handNote>
+                              <handNote xml:id="Ott.m1">Ott.m1: Mano principale;</handNote>
                               <handNote xml:id="Ott.mX">Ott.mX: Mano forse diversa da quella principale</handNote>
                            </handDesc>
                         </physDesc>
@@ -247,7 +247,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Urb1.m1">Urb1.m1: Mano principale di Hubertus</handNote>
+                              <handNote xml:id="Urb1.m1">Urb1.m1: Mano principale di Hubertus;</handNote>
                               <handNote xml:id="Urb1.m2">Urb1.m2: Seconda mano</handNote>
                            </handDesc>
                         </physDesc>
@@ -269,8 +269,8 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Urb2.m1">Urb2.m1: Mano principale di Francesco degli Ugolini da Colle Val d’Elsa</handNote>
-                              <handNote xml:id="Urb2.m2">Urb2.m2: Seconda mano</handNote>
+                              <handNote xml:id="Urb2.m1">Urb2.m1: Mano principale di Francesco degli Ugolini da Colle Val d’Elsa;</handNote>
+                              <handNote xml:id="Urb2.m2">Urb2.m2: Seconda mano;</handNote>
                               <handNote xml:id="Urb2.mX">Urb2.mX: Mano forse diversa da quella principale</handNote>
                            </handDesc>
                         </physDesc>
@@ -397,7 +397,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Ric23.mX">"Ric23.mX: Mano forse diversa da quella principale</handNote>
+                              <handNote xml:id="Ric23.mX">Ric23.mX: Mano forse diversa da quella principale</handNote>
                            </handDesc>
                         </physDesc>
                      </msDesc>
@@ -417,7 +417,7 @@
                         </msContents>
                         <physDesc>
                            <handDesc>
-                              <handNote xml:id="Holk.m1">Holk.m1: Mano principale</handNote>
+                              <handNote xml:id="Holk.m1">Holk.m1: Mano principale;</handNote>
                               <handNote xml:id="Holk.mX">Holk.mX: Mano forse diversa da quella principale</handNote>
                            </handDesc>
                         </physDesc>
