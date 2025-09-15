@@ -3088,7 +3088,7 @@
                   <lem ana="#O #A #π #ς #φ #ρ">pecuniariis</lem>
                   <rdg ana="#A" type="unique" wit="#Ott">pecunia</rdg>
                </app> lenis socius ipse vir liberalis: <app>
-                  <lem ana="#π #ς #φ #ρ">potest enim iniuiriam pati</lem>
+                  <lem ana="#π #ς #φ #ρ">potest enim iniuriam pati</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">nam si iniuria sibi circa
                      pecunias inferatur perferre potest</rdg>
                   <rdg ana="#A" type="draft"
@@ -5094,7 +5094,7 @@
                <app>
                   <lem ana="#O #A #π #ς #φ #ρ">ipsa</lem>
                   <rdg ana="#φ" type="unique" cause="om" wit="#E"/>
-               </app> magnficentia, <app>
+               </app> magnificentia, <app>
                   <lem ana="#O #A #π #ς #φ #ρ">quem ad modum</lem>
                   <rdg ana="#ς" type="unique" wit="#f">quem ad modum ut</rdg>
                </app> diximus<note xml:id="n6" place="above" resp="#AG">Cf. Arist. EN IV, 1122b, ll.
@@ -6281,7 +6281,7 @@
                   <lem ana="#O #A #π #ς #φ #ρ">pravus</lem>
                   <rdg ana="#ρ" type="unique" wit="#v">parvus</rdg>
                </app> sit, quippe cum honor praemium sit virtutis ac bonis hominibus tribuatur.
-               Videtur igitutr ipsa magnitudo animi tamquam ornamentum quoddam esse virtutum: <app>
+               Videtur igitur ipsa magnitudo animi tamquam ornamentum quoddam esse virtutum: <app>
                   <lem ana="#φ">maiores enim</lem>
                   <rdg ana="#O #A #π #ς #ρ" type="draft"
                      wit="#C #Ric15 #Ric16 #Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut3 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat #S #Ox1 #f #t #m #p #g #Amstel #r #v"
@@ -8023,7 +8023,7 @@
                   <rdg ana="#φ" type="unique" wit="#E">in honoribus</rdg>
                </app>
                <app>
-                  <lem ana="#φ">quae nomnine caret</lem>
+                  <lem ana="#φ">quae nomine caret</lem>
                   <rdg ana="#O" type="draft" wit="#C #Ric15 #Ric16">quem vacare nomine diximus</rdg>
                   <rdg ana="#A" type="draft"
                      wit="#Ch1 #Ch2 #Ott #Urb1 #Urb2 #Vat #Faes #Plut1 #Plut84 #Plut89 #Ric23 #Holk #Mon #Ox2 #Par1 #Par2 #Vall #Vrat"
@@ -8146,7 +8146,7 @@
                </app>, ad <app>
                   <lem ana="#O #A #π #ς #φ #ρ">medium</lem>
                   <rdg ana="#A" type="unique" wit="#Ch2"><add place="above">cum</add> medium</rdg>
-               </app> quidem mansuentudinem ipsam adducimus, <app>
+               </app> quidem mansuetudinem ipsam adducimus, <app>
                   <lem ana="#O #A #π #ς #φ">ad defectionem, vacantem nomine, declinantem.
                      Exsuperatio</lem>
                   <rdg ana="#ρ" type="draft" wit="#Amstel #r #v">cum ei quod est parum et nomine
